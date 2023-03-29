@@ -1,0 +1,15 @@
+D:\Internship\Training\C#\ArrayConcepts\ArrayConcepts\bin\Debug\net6.0\ArrayConcepts.exe
+D:\Internship\Training\C#\ArrayConcepts\ArrayConcepts\bin\Debug\net6.0\ArrayConcepts.deps.json
+D:\Internship\Training\C#\ArrayConcepts\ArrayConcepts\bin\Debug\net6.0\ArrayConcepts.runtimeconfig.json
+D:\Internship\Training\C#\ArrayConcepts\ArrayConcepts\bin\Debug\net6.0\ArrayConcepts.dll
+D:\Internship\Training\C#\ArrayConcepts\ArrayConcepts\bin\Debug\net6.0\ArrayConcepts.pdb
+D:\Internship\Training\C#\ArrayConcepts\ArrayConcepts\obj\Debug\net6.0\ArrayConcepts.csproj.AssemblyReference.cache
+D:\Internship\Training\C#\ArrayConcepts\ArrayConcepts\obj\Debug\net6.0\ArrayConcepts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Training\C#\ArrayConcepts\ArrayConcepts\obj\Debug\net6.0\ArrayConcepts.AssemblyInfoInputs.cache
+D:\Internship\Training\C#\ArrayConcepts\ArrayConcepts\obj\Debug\net6.0\ArrayConcepts.AssemblyInfo.cs
+D:\Internship\Training\C#\ArrayConcepts\ArrayConcepts\obj\Debug\net6.0\ArrayConcepts.csproj.CoreCompileInputs.cache
+D:\Internship\Training\C#\ArrayConcepts\ArrayConcepts\obj\Debug\net6.0\ArrayConcepts.dll
+D:\Internship\Training\C#\ArrayConcepts\ArrayConcepts\obj\Debug\net6.0\refint\ArrayConcepts.dll
+D:\Internship\Training\C#\ArrayConcepts\ArrayConcepts\obj\Debug\net6.0\ArrayConcepts.pdb
+D:\Internship\Training\C#\ArrayConcepts\ArrayConcepts\obj\Debug\net6.0\ArrayConcepts.genruntimeconfig.cache
+D:\Internship\Training\C#\ArrayConcepts\ArrayConcepts\obj\Debug\net6.0\ref\ArrayConcepts.dll

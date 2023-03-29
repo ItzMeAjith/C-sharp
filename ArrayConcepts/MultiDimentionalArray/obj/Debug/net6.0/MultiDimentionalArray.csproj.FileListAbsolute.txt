@@ -1,0 +1,15 @@
+D:\Internship\Training\C#\ArrayConcepts\MultiDimentionalArray\bin\Debug\net6.0\MultiDimentionalArray.exe
+D:\Internship\Training\C#\ArrayConcepts\MultiDimentionalArray\bin\Debug\net6.0\MultiDimentionalArray.deps.json
+D:\Internship\Training\C#\ArrayConcepts\MultiDimentionalArray\bin\Debug\net6.0\MultiDimentionalArray.runtimeconfig.json
+D:\Internship\Training\C#\ArrayConcepts\MultiDimentionalArray\bin\Debug\net6.0\MultiDimentionalArray.dll
+D:\Internship\Training\C#\ArrayConcepts\MultiDimentionalArray\bin\Debug\net6.0\MultiDimentionalArray.pdb
+D:\Internship\Training\C#\ArrayConcepts\MultiDimentionalArray\obj\Debug\net6.0\MultiDimentionalArray.csproj.AssemblyReference.cache
+D:\Internship\Training\C#\ArrayConcepts\MultiDimentionalArray\obj\Debug\net6.0\MultiDimentionalArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Training\C#\ArrayConcepts\MultiDimentionalArray\obj\Debug\net6.0\MultiDimentionalArray.AssemblyInfoInputs.cache
+D:\Internship\Training\C#\ArrayConcepts\MultiDimentionalArray\obj\Debug\net6.0\MultiDimentionalArray.AssemblyInfo.cs
+D:\Internship\Training\C#\ArrayConcepts\MultiDimentionalArray\obj\Debug\net6.0\MultiDimentionalArray.csproj.CoreCompileInputs.cache
+D:\Internship\Training\C#\ArrayConcepts\MultiDimentionalArray\obj\Debug\net6.0\MultiDimentionalArray.dll
+D:\Internship\Training\C#\ArrayConcepts\MultiDimentionalArray\obj\Debug\net6.0\refint\MultiDimentionalArray.dll
+D:\Internship\Training\C#\ArrayConcepts\MultiDimentionalArray\obj\Debug\net6.0\MultiDimentionalArray.pdb
+D:\Internship\Training\C#\ArrayConcepts\MultiDimentionalArray\obj\Debug\net6.0\MultiDimentionalArray.genruntimeconfig.cache
+D:\Internship\Training\C#\ArrayConcepts\MultiDimentionalArray\obj\Debug\net6.0\ref\MultiDimentionalArray.dll

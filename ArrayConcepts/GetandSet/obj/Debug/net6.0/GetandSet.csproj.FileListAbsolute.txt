@@ -1,0 +1,15 @@
+D:\Internship\Training\C#\ArrayConcepts\GetandSet\bin\Debug\net6.0\GetandSet.exe
+D:\Internship\Training\C#\ArrayConcepts\GetandSet\bin\Debug\net6.0\GetandSet.deps.json
+D:\Internship\Training\C#\ArrayConcepts\GetandSet\bin\Debug\net6.0\GetandSet.runtimeconfig.json
+D:\Internship\Training\C#\ArrayConcepts\GetandSet\bin\Debug\net6.0\GetandSet.dll
+D:\Internship\Training\C#\ArrayConcepts\GetandSet\bin\Debug\net6.0\GetandSet.pdb
+D:\Internship\Training\C#\ArrayConcepts\GetandSet\obj\Debug\net6.0\GetandSet.csproj.AssemblyReference.cache
+D:\Internship\Training\C#\ArrayConcepts\GetandSet\obj\Debug\net6.0\GetandSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Training\C#\ArrayConcepts\GetandSet\obj\Debug\net6.0\GetandSet.AssemblyInfoInputs.cache
+D:\Internship\Training\C#\ArrayConcepts\GetandSet\obj\Debug\net6.0\GetandSet.AssemblyInfo.cs
+D:\Internship\Training\C#\ArrayConcepts\GetandSet\obj\Debug\net6.0\GetandSet.csproj.CoreCompileInputs.cache
+D:\Internship\Training\C#\ArrayConcepts\GetandSet\obj\Debug\net6.0\GetandSet.dll
+D:\Internship\Training\C#\ArrayConcepts\GetandSet\obj\Debug\net6.0\refint\GetandSet.dll
+D:\Internship\Training\C#\ArrayConcepts\GetandSet\obj\Debug\net6.0\GetandSet.pdb
+D:\Internship\Training\C#\ArrayConcepts\GetandSet\obj\Debug\net6.0\GetandSet.genruntimeconfig.cache
+D:\Internship\Training\C#\ArrayConcepts\GetandSet\obj\Debug\net6.0\ref\GetandSet.dll
