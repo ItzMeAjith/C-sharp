@@ -7,16 +7,21 @@ namespace NewJaggedArray
     {
         public static void display(int n, int[][] overs)
         {
+            int s = 0;
             for (int i = 0; i < n; i++)
             {
+                s = 0;
                 Console.Write($"The total runs scored by {i + 1} th team in each ball is : [ ");
                 for (int j = 0; j < overs[i].Length; j++)
                 {
                     Console.Write(overs[i][j] + " ");
+                    s += overs[i][j];
                 }
-                Console.Write("]");
+                Console.Write("]  ");
+                Console.WriteLine($"The total run scored by {i+1}th team is {s}");
                 Console.WriteLine();
             }
+
         }
         static void Main(string[] args)
         {
