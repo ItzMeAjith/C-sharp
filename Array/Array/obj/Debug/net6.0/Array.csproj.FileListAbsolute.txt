@@ -1,0 +1,15 @@
+D:\Internship\Training\C#\Array\Array\bin\Debug\net6.0\Array.exe
+D:\Internship\Training\C#\Array\Array\bin\Debug\net6.0\Array.deps.json
+D:\Internship\Training\C#\Array\Array\bin\Debug\net6.0\Array.runtimeconfig.json
+D:\Internship\Training\C#\Array\Array\bin\Debug\net6.0\Array.dll
+D:\Internship\Training\C#\Array\Array\bin\Debug\net6.0\Array.pdb
+D:\Internship\Training\C#\Array\Array\obj\Debug\net6.0\Array.csproj.AssemblyReference.cache
+D:\Internship\Training\C#\Array\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Training\C#\Array\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+D:\Internship\Training\C#\Array\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+D:\Internship\Training\C#\Array\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+D:\Internship\Training\C#\Array\Array\obj\Debug\net6.0\Array.dll
+D:\Internship\Training\C#\Array\Array\obj\Debug\net6.0\refint\Array.dll
+D:\Internship\Training\C#\Array\Array\obj\Debug\net6.0\Array.pdb
+D:\Internship\Training\C#\Array\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache
+D:\Internship\Training\C#\Array\Array\obj\Debug\net6.0\ref\Array.dll
