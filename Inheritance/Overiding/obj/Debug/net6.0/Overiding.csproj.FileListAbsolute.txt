@@ -1,0 +1,15 @@
+D:\Internship\Training\C#\Inheritance\Overiding\bin\Debug\net6.0\Overiding.exe
+D:\Internship\Training\C#\Inheritance\Overiding\bin\Debug\net6.0\Overiding.deps.json
+D:\Internship\Training\C#\Inheritance\Overiding\bin\Debug\net6.0\Overiding.runtimeconfig.json
+D:\Internship\Training\C#\Inheritance\Overiding\bin\Debug\net6.0\Overiding.dll
+D:\Internship\Training\C#\Inheritance\Overiding\bin\Debug\net6.0\Overiding.pdb
+D:\Internship\Training\C#\Inheritance\Overiding\obj\Debug\net6.0\Overiding.csproj.AssemblyReference.cache
+D:\Internship\Training\C#\Inheritance\Overiding\obj\Debug\net6.0\Overiding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Training\C#\Inheritance\Overiding\obj\Debug\net6.0\Overiding.AssemblyInfoInputs.cache
+D:\Internship\Training\C#\Inheritance\Overiding\obj\Debug\net6.0\Overiding.AssemblyInfo.cs
+D:\Internship\Training\C#\Inheritance\Overiding\obj\Debug\net6.0\Overiding.csproj.CoreCompileInputs.cache
+D:\Internship\Training\C#\Inheritance\Overiding\obj\Debug\net6.0\Overiding.dll
+D:\Internship\Training\C#\Inheritance\Overiding\obj\Debug\net6.0\refint\Overiding.dll
+D:\Internship\Training\C#\Inheritance\Overiding\obj\Debug\net6.0\Overiding.pdb
+D:\Internship\Training\C#\Inheritance\Overiding\obj\Debug\net6.0\Overiding.genruntimeconfig.cache
+D:\Internship\Training\C#\Inheritance\Overiding\obj\Debug\net6.0\ref\Overiding.dll

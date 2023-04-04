@@ -1,0 +1,15 @@
+D:\Internship\Training\C#\Salary\Salary\bin\Debug\net6.0\Salary.exe
+D:\Internship\Training\C#\Salary\Salary\bin\Debug\net6.0\Salary.deps.json
+D:\Internship\Training\C#\Salary\Salary\bin\Debug\net6.0\Salary.runtimeconfig.json
+D:\Internship\Training\C#\Salary\Salary\bin\Debug\net6.0\Salary.dll
+D:\Internship\Training\C#\Salary\Salary\bin\Debug\net6.0\Salary.pdb
+D:\Internship\Training\C#\Salary\Salary\obj\Debug\net6.0\Salary.csproj.AssemblyReference.cache
+D:\Internship\Training\C#\Salary\Salary\obj\Debug\net6.0\Salary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Training\C#\Salary\Salary\obj\Debug\net6.0\Salary.AssemblyInfoInputs.cache
+D:\Internship\Training\C#\Salary\Salary\obj\Debug\net6.0\Salary.AssemblyInfo.cs
+D:\Internship\Training\C#\Salary\Salary\obj\Debug\net6.0\Salary.csproj.CoreCompileInputs.cache
+D:\Internship\Training\C#\Salary\Salary\obj\Debug\net6.0\Salary.dll
+D:\Internship\Training\C#\Salary\Salary\obj\Debug\net6.0\refint\Salary.dll
+D:\Internship\Training\C#\Salary\Salary\obj\Debug\net6.0\Salary.pdb
+D:\Internship\Training\C#\Salary\Salary\obj\Debug\net6.0\Salary.genruntimeconfig.cache
+D:\Internship\Training\C#\Salary\Salary\obj\Debug\net6.0\ref\Salary.dll

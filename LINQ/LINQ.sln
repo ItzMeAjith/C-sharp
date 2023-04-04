@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ", "LINQ\LINQ.csproj", "{413EB063-1FCC-448E-AF8F-83FF2D4037ED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractClass", "AbstractClass\AbstractClass.csproj", "{CE79FEE5-F9AE-4367-ABED-F8D292228CCD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SealedClass", "SealedClass\SealedClass.csproj", "{3F77D128-8E4B-4DBB-8E1F-C2B98F7E1F64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{D460EF32-AB05-403F-87E1-9A5B2D317D9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleInheritanceInterface", "MultipleInheritanceInterface\MultipleInheritanceInterface.csproj", "{56FBC167-C20E-4952-8FB1-E1155BD8EEF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqArrayConcat", "LinqArrayConcat\LinqArrayConcat.csproj", "{3245079F-C4CB-4F8F-84DB-9B00A8A89F52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{413EB063-1FCC-448E-AF8F-83FF2D4037ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{413EB063-1FCC-448E-AF8F-83FF2D4037ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{413EB063-1FCC-448E-AF8F-83FF2D4037ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{413EB063-1FCC-448E-AF8F-83FF2D4037ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE79FEE5-F9AE-4367-ABED-F8D292228CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE79FEE5-F9AE-4367-ABED-F8D292228CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE79FEE5-F9AE-4367-ABED-F8D292228CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE79FEE5-F9AE-4367-ABED-F8D292228CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F77D128-8E4B-4DBB-8E1F-C2B98F7E1F64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F77D128-8E4B-4DBB-8E1F-C2B98F7E1F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F77D128-8E4B-4DBB-8E1F-C2B98F7E1F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F77D128-8E4B-4DBB-8E1F-C2B98F7E1F64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D460EF32-AB05-403F-87E1-9A5B2D317D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D460EF32-AB05-403F-87E1-9A5B2D317D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D460EF32-AB05-403F-87E1-9A5B2D317D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D460EF32-AB05-403F-87E1-9A5B2D317D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56FBC167-C20E-4952-8FB1-E1155BD8EEF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FBC167-C20E-4952-8FB1-E1155BD8EEF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FBC167-C20E-4952-8FB1-E1155BD8EEF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FBC167-C20E-4952-8FB1-E1155BD8EEF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3245079F-C4CB-4F8F-84DB-9B00A8A89F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3245079F-C4CB-4F8F-84DB-9B00A8A89F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3245079F-C4CB-4F8F-84DB-9B00A8A89F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3245079F-C4CB-4F8F-84DB-9B00A8A89F52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F40CB872-6FB3-4D8E-99A0-BD1BBD5D022D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+D:\Internship\Training\C#\LINQ\MultipleInheritanceInterface\obj\Debug\net6.0\MultipleInheritanceInterface.csproj.AssemblyReference.cache
+D:\Internship\Training\C#\LINQ\MultipleInheritanceInterface\obj\Debug\net6.0\MultipleInheritanceInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Training\C#\LINQ\MultipleInheritanceInterface\obj\Debug\net6.0\MultipleInheritanceInterface.AssemblyInfoInputs.cache
+D:\Internship\Training\C#\LINQ\MultipleInheritanceInterface\obj\Debug\net6.0\MultipleInheritanceInterface.AssemblyInfo.cs
+D:\Internship\Training\C#\LINQ\MultipleInheritanceInterface\obj\Debug\net6.0\MultipleInheritanceInterface.csproj.CoreCompileInputs.cache
+D:\Internship\Training\C#\LINQ\MultipleInheritanceInterface\bin\Debug\net6.0\MultipleInheritanceInterface.exe
+D:\Internship\Training\C#\LINQ\MultipleInheritanceInterface\bin\Debug\net6.0\MultipleInheritanceInterface.deps.json
+D:\Internship\Training\C#\LINQ\MultipleInheritanceInterface\bin\Debug\net6.0\MultipleInheritanceInterface.runtimeconfig.json
+D:\Internship\Training\C#\LINQ\MultipleInheritanceInterface\bin\Debug\net6.0\MultipleInheritanceInterface.dll
+D:\Internship\Training\C#\LINQ\MultipleInheritanceInterface\bin\Debug\net6.0\MultipleInheritanceInterface.pdb
+D:\Internship\Training\C#\LINQ\MultipleInheritanceInterface\obj\Debug\net6.0\MultipleInheritanceInterface.dll
+D:\Internship\Training\C#\LINQ\MultipleInheritanceInterface\obj\Debug\net6.0\refint\MultipleInheritanceInterface.dll
+D:\Internship\Training\C#\LINQ\MultipleInheritanceInterface\obj\Debug\net6.0\MultipleInheritanceInterface.pdb
+D:\Internship\Training\C#\LINQ\MultipleInheritanceInterface\obj\Debug\net6.0\MultipleInheritanceInterface.genruntimeconfig.cache
+D:\Internship\Training\C#\LINQ\MultipleInheritanceInterface\obj\Debug\net6.0\ref\MultipleInheritanceInterface.dll

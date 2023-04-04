@@ -1,0 +1,15 @@
+D:\Internship\Training\C#\Assignment2\SquareCube\bin\Debug\net6.0\SquareCube.exe
+D:\Internship\Training\C#\Assignment2\SquareCube\bin\Debug\net6.0\SquareCube.deps.json
+D:\Internship\Training\C#\Assignment2\SquareCube\bin\Debug\net6.0\SquareCube.runtimeconfig.json
+D:\Internship\Training\C#\Assignment2\SquareCube\bin\Debug\net6.0\SquareCube.dll
+D:\Internship\Training\C#\Assignment2\SquareCube\bin\Debug\net6.0\SquareCube.pdb
+D:\Internship\Training\C#\Assignment2\SquareCube\obj\Debug\net6.0\SquareCube.csproj.AssemblyReference.cache
+D:\Internship\Training\C#\Assignment2\SquareCube\obj\Debug\net6.0\SquareCube.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Training\C#\Assignment2\SquareCube\obj\Debug\net6.0\SquareCube.AssemblyInfoInputs.cache
+D:\Internship\Training\C#\Assignment2\SquareCube\obj\Debug\net6.0\SquareCube.AssemblyInfo.cs
+D:\Internship\Training\C#\Assignment2\SquareCube\obj\Debug\net6.0\SquareCube.csproj.CoreCompileInputs.cache
+D:\Internship\Training\C#\Assignment2\SquareCube\obj\Debug\net6.0\SquareCube.dll
+D:\Internship\Training\C#\Assignment2\SquareCube\obj\Debug\net6.0\refint\SquareCube.dll
+D:\Internship\Training\C#\Assignment2\SquareCube\obj\Debug\net6.0\SquareCube.pdb
+D:\Internship\Training\C#\Assignment2\SquareCube\obj\Debug\net6.0\SquareCube.genruntimeconfig.cache
+D:\Internship\Training\C#\Assignment2\SquareCube\obj\Debug\net6.0\ref\SquareCube.dll

@@ -1,0 +1,15 @@
+D:\Internship\Training\C#\Inheritance\Customer_Inheritance\bin\Debug\net6.0\Customer_Inheritance.exe
+D:\Internship\Training\C#\Inheritance\Customer_Inheritance\bin\Debug\net6.0\Customer_Inheritance.deps.json
+D:\Internship\Training\C#\Inheritance\Customer_Inheritance\bin\Debug\net6.0\Customer_Inheritance.runtimeconfig.json
+D:\Internship\Training\C#\Inheritance\Customer_Inheritance\bin\Debug\net6.0\Customer_Inheritance.dll
+D:\Internship\Training\C#\Inheritance\Customer_Inheritance\bin\Debug\net6.0\Customer_Inheritance.pdb
+D:\Internship\Training\C#\Inheritance\Customer_Inheritance\obj\Debug\net6.0\Customer_Inheritance.csproj.AssemblyReference.cache
+D:\Internship\Training\C#\Inheritance\Customer_Inheritance\obj\Debug\net6.0\Customer_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Training\C#\Inheritance\Customer_Inheritance\obj\Debug\net6.0\Customer_Inheritance.AssemblyInfoInputs.cache
+D:\Internship\Training\C#\Inheritance\Customer_Inheritance\obj\Debug\net6.0\Customer_Inheritance.AssemblyInfo.cs
+D:\Internship\Training\C#\Inheritance\Customer_Inheritance\obj\Debug\net6.0\Customer_Inheritance.csproj.CoreCompileInputs.cache
+D:\Internship\Training\C#\Inheritance\Customer_Inheritance\obj\Debug\net6.0\Customer_Inheritance.dll
+D:\Internship\Training\C#\Inheritance\Customer_Inheritance\obj\Debug\net6.0\refint\Customer_Inheritance.dll
+D:\Internship\Training\C#\Inheritance\Customer_Inheritance\obj\Debug\net6.0\Customer_Inheritance.pdb
+D:\Internship\Training\C#\Inheritance\Customer_Inheritance\obj\Debug\net6.0\Customer_Inheritance.genruntimeconfig.cache
+D:\Internship\Training\C#\Inheritance\Customer_Inheritance\obj\Debug\net6.0\ref\Customer_Inheritance.dll

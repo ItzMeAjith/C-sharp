@@ -1,0 +1,15 @@
+D:\Internship\Training\C#\Assignment3\ReverseNumber\bin\Debug\net6.0\ReverseNumber.exe
+D:\Internship\Training\C#\Assignment3\ReverseNumber\bin\Debug\net6.0\ReverseNumber.deps.json
+D:\Internship\Training\C#\Assignment3\ReverseNumber\bin\Debug\net6.0\ReverseNumber.runtimeconfig.json
+D:\Internship\Training\C#\Assignment3\ReverseNumber\bin\Debug\net6.0\ReverseNumber.dll
+D:\Internship\Training\C#\Assignment3\ReverseNumber\bin\Debug\net6.0\ReverseNumber.pdb
+D:\Internship\Training\C#\Assignment3\ReverseNumber\obj\Debug\net6.0\ReverseNumber.csproj.AssemblyReference.cache
+D:\Internship\Training\C#\Assignment3\ReverseNumber\obj\Debug\net6.0\ReverseNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Training\C#\Assignment3\ReverseNumber\obj\Debug\net6.0\ReverseNumber.AssemblyInfoInputs.cache
+D:\Internship\Training\C#\Assignment3\ReverseNumber\obj\Debug\net6.0\ReverseNumber.AssemblyInfo.cs
+D:\Internship\Training\C#\Assignment3\ReverseNumber\obj\Debug\net6.0\ReverseNumber.csproj.CoreCompileInputs.cache
+D:\Internship\Training\C#\Assignment3\ReverseNumber\obj\Debug\net6.0\ReverseNumber.dll
+D:\Internship\Training\C#\Assignment3\ReverseNumber\obj\Debug\net6.0\refint\ReverseNumber.dll
+D:\Internship\Training\C#\Assignment3\ReverseNumber\obj\Debug\net6.0\ReverseNumber.pdb
+D:\Internship\Training\C#\Assignment3\ReverseNumber\obj\Debug\net6.0\ReverseNumber.genruntimeconfig.cache
+D:\Internship\Training\C#\Assignment3\ReverseNumber\obj\Debug\net6.0\ref\ReverseNumber.dll

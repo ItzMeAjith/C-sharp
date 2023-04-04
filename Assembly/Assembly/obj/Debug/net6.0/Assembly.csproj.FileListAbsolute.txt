@@ -1,0 +1,15 @@
+D:\Internship\Training\C#\Assembly\Assembly\obj\Debug\net6.0\Assembly.csproj.AssemblyReference.cache
+D:\Internship\Training\C#\Assembly\Assembly\obj\Debug\net6.0\Assembly.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Training\C#\Assembly\Assembly\obj\Debug\net6.0\Assembly.AssemblyInfoInputs.cache
+D:\Internship\Training\C#\Assembly\Assembly\obj\Debug\net6.0\Assembly.AssemblyInfo.cs
+D:\Internship\Training\C#\Assembly\Assembly\obj\Debug\net6.0\Assembly.csproj.CoreCompileInputs.cache
+D:\Internship\Training\C#\Assembly\Assembly\bin\Debug\net6.0\Assembly.exe
+D:\Internship\Training\C#\Assembly\Assembly\bin\Debug\net6.0\Assembly.deps.json
+D:\Internship\Training\C#\Assembly\Assembly\bin\Debug\net6.0\Assembly.runtimeconfig.json
+D:\Internship\Training\C#\Assembly\Assembly\bin\Debug\net6.0\Assembly.dll
+D:\Internship\Training\C#\Assembly\Assembly\bin\Debug\net6.0\Assembly.pdb
+D:\Internship\Training\C#\Assembly\Assembly\obj\Debug\net6.0\Assembly.dll
+D:\Internship\Training\C#\Assembly\Assembly\obj\Debug\net6.0\refint\Assembly.dll
+D:\Internship\Training\C#\Assembly\Assembly\obj\Debug\net6.0\Assembly.pdb
+D:\Internship\Training\C#\Assembly\Assembly\obj\Debug\net6.0\Assembly.genruntimeconfig.cache
+D:\Internship\Training\C#\Assembly\Assembly\obj\Debug\net6.0\ref\Assembly.dll
