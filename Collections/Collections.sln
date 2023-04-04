@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCollections", "GenericCollections\GenericCollections.csproj", "{65772A01-DA5D-4ADE-B2C4-751605E3320C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable", "HashTable\HashTable.csproj", "{3F88DE76-9E28-41E2-AEE4-1E276DAA07F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackQueue", "StackQueue\StackQueue.csproj", "{DD17DC44-8E89-4F2A-97A4-C1F16B477DF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{65772A01-DA5D-4ADE-B2C4-751605E3320C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65772A01-DA5D-4ADE-B2C4-751605E3320C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65772A01-DA5D-4ADE-B2C4-751605E3320C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F88DE76-9E28-41E2-AEE4-1E276DAA07F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F88DE76-9E28-41E2-AEE4-1E276DAA07F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F88DE76-9E28-41E2-AEE4-1E276DAA07F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F88DE76-9E28-41E2-AEE4-1E276DAA07F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD17DC44-8E89-4F2A-97A4-C1F16B477DF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD17DC44-8E89-4F2A-97A4-C1F16B477DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD17DC44-8E89-4F2A-97A4-C1F16B477DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD17DC44-8E89-4F2A-97A4-C1F16B477DF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
