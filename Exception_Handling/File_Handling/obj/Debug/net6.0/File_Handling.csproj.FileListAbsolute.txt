@@ -1,0 +1,15 @@
+D:\Internship\Training\C#\Exception_Handling\File_Handling\bin\Debug\net6.0\File_Handling.exe
+D:\Internship\Training\C#\Exception_Handling\File_Handling\bin\Debug\net6.0\File_Handling.deps.json
+D:\Internship\Training\C#\Exception_Handling\File_Handling\bin\Debug\net6.0\File_Handling.runtimeconfig.json
+D:\Internship\Training\C#\Exception_Handling\File_Handling\bin\Debug\net6.0\File_Handling.dll
+D:\Internship\Training\C#\Exception_Handling\File_Handling\bin\Debug\net6.0\File_Handling.pdb
+D:\Internship\Training\C#\Exception_Handling\File_Handling\obj\Debug\net6.0\File_Handling.csproj.AssemblyReference.cache
+D:\Internship\Training\C#\Exception_Handling\File_Handling\obj\Debug\net6.0\File_Handling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Training\C#\Exception_Handling\File_Handling\obj\Debug\net6.0\File_Handling.AssemblyInfoInputs.cache
+D:\Internship\Training\C#\Exception_Handling\File_Handling\obj\Debug\net6.0\File_Handling.AssemblyInfo.cs
+D:\Internship\Training\C#\Exception_Handling\File_Handling\obj\Debug\net6.0\File_Handling.csproj.CoreCompileInputs.cache
+D:\Internship\Training\C#\Exception_Handling\File_Handling\obj\Debug\net6.0\File_Handling.dll
+D:\Internship\Training\C#\Exception_Handling\File_Handling\obj\Debug\net6.0\refint\File_Handling.dll
+D:\Internship\Training\C#\Exception_Handling\File_Handling\obj\Debug\net6.0\File_Handling.pdb
+D:\Internship\Training\C#\Exception_Handling\File_Handling\obj\Debug\net6.0\File_Handling.genruntimeconfig.cache
+D:\Internship\Training\C#\Exception_Handling\File_Handling\obj\Debug\net6.0\ref\File_Handling.dll
