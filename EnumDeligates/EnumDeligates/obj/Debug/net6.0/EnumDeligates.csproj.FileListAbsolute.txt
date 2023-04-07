@@ -1,0 +1,15 @@
+D:\Internship\Training\C#\EnumDeligates\EnumDeligates\bin\Debug\net6.0\EnumDeligates.exe
+D:\Internship\Training\C#\EnumDeligates\EnumDeligates\bin\Debug\net6.0\EnumDeligates.deps.json
+D:\Internship\Training\C#\EnumDeligates\EnumDeligates\bin\Debug\net6.0\EnumDeligates.runtimeconfig.json
+D:\Internship\Training\C#\EnumDeligates\EnumDeligates\bin\Debug\net6.0\EnumDeligates.dll
+D:\Internship\Training\C#\EnumDeligates\EnumDeligates\bin\Debug\net6.0\EnumDeligates.pdb
+D:\Internship\Training\C#\EnumDeligates\EnumDeligates\obj\Debug\net6.0\EnumDeligates.csproj.AssemblyReference.cache
+D:\Internship\Training\C#\EnumDeligates\EnumDeligates\obj\Debug\net6.0\EnumDeligates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Training\C#\EnumDeligates\EnumDeligates\obj\Debug\net6.0\EnumDeligates.AssemblyInfoInputs.cache
+D:\Internship\Training\C#\EnumDeligates\EnumDeligates\obj\Debug\net6.0\EnumDeligates.AssemblyInfo.cs
+D:\Internship\Training\C#\EnumDeligates\EnumDeligates\obj\Debug\net6.0\EnumDeligates.csproj.CoreCompileInputs.cache
+D:\Internship\Training\C#\EnumDeligates\EnumDeligates\obj\Debug\net6.0\EnumDeligates.dll
+D:\Internship\Training\C#\EnumDeligates\EnumDeligates\obj\Debug\net6.0\refint\EnumDeligates.dll
+D:\Internship\Training\C#\EnumDeligates\EnumDeligates\obj\Debug\net6.0\EnumDeligates.pdb
+D:\Internship\Training\C#\EnumDeligates\EnumDeligates\obj\Debug\net6.0\EnumDeligates.genruntimeconfig.cache
+D:\Internship\Training\C#\EnumDeligates\EnumDeligates\obj\Debug\net6.0\ref\EnumDeligates.dll

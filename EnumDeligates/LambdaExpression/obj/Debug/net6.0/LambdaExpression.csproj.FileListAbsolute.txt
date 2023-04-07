@@ -1,0 +1,15 @@
+D:\Internship\Training\C#\EnumDeligates\LambdaExpression\bin\Debug\net6.0\LambdaExpression.exe
+D:\Internship\Training\C#\EnumDeligates\LambdaExpression\bin\Debug\net6.0\LambdaExpression.deps.json
+D:\Internship\Training\C#\EnumDeligates\LambdaExpression\bin\Debug\net6.0\LambdaExpression.runtimeconfig.json
+D:\Internship\Training\C#\EnumDeligates\LambdaExpression\bin\Debug\net6.0\LambdaExpression.dll
+D:\Internship\Training\C#\EnumDeligates\LambdaExpression\bin\Debug\net6.0\LambdaExpression.pdb
+D:\Internship\Training\C#\EnumDeligates\LambdaExpression\obj\Debug\net6.0\LambdaExpression.csproj.AssemblyReference.cache
+D:\Internship\Training\C#\EnumDeligates\LambdaExpression\obj\Debug\net6.0\LambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Training\C#\EnumDeligates\LambdaExpression\obj\Debug\net6.0\LambdaExpression.AssemblyInfoInputs.cache
+D:\Internship\Training\C#\EnumDeligates\LambdaExpression\obj\Debug\net6.0\LambdaExpression.AssemblyInfo.cs
+D:\Internship\Training\C#\EnumDeligates\LambdaExpression\obj\Debug\net6.0\LambdaExpression.csproj.CoreCompileInputs.cache
+D:\Internship\Training\C#\EnumDeligates\LambdaExpression\obj\Debug\net6.0\LambdaExpression.dll
+D:\Internship\Training\C#\EnumDeligates\LambdaExpression\obj\Debug\net6.0\refint\LambdaExpression.dll
+D:\Internship\Training\C#\EnumDeligates\LambdaExpression\obj\Debug\net6.0\LambdaExpression.pdb
+D:\Internship\Training\C#\EnumDeligates\LambdaExpression\obj\Debug\net6.0\LambdaExpression.genruntimeconfig.cache
+D:\Internship\Training\C#\EnumDeligates\LambdaExpression\obj\Debug\net6.0\ref\LambdaExpression.dll

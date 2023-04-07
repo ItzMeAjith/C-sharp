@@ -14,6 +14,11 @@ namespace StringReverse
             l = s.Length - 1;
             for (int i=s.Length-1;i>=0;i--)
             {
+                if(i==0)
+                {
+                    f = 0;
+
+                }
                 if (s[i]==' ')
                 {
                     f = i + 1;
