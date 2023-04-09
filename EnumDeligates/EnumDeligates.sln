@@ -5,7 +5,9 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumDeligates", "EnumDeligates\EnumDeligates.csproj", "{B80AE5C3-1164-4D44-9439-2EE3BBFEB952}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpression", "LambdaExpression\LambdaExpression.csproj", "{4F4225B6-F3E7-4C9A-830F-D9EB6F2AD716}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaExpression", "LambdaExpression\LambdaExpression.csproj", "{4F4225B6-F3E7-4C9A-830F-D9EB6F2AD716}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Partial_class", "Partial_class\Partial_class.csproj", "{ADD18ECA-7466-456A-8121-4FF20FF1A726}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{4F4225B6-F3E7-4C9A-830F-D9EB6F2AD716}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F4225B6-F3E7-4C9A-830F-D9EB6F2AD716}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F4225B6-F3E7-4C9A-830F-D9EB6F2AD716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD18ECA-7466-456A-8121-4FF20FF1A726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD18ECA-7466-456A-8121-4FF20FF1A726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD18ECA-7466-456A-8121-4FF20FF1A726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD18ECA-7466-456A-8121-4FF20FF1A726}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

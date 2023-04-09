@@ -32,15 +32,19 @@ namespace LambdaExpression
                     string name = Console.ReadLine();
                     Console.Write("Enter dept: ");
                     string dep = Console.ReadLine();
-                    s[i] = new std(id, name, dep);
-                    var res = s.Select(x => x.dept);
-
-                    foreach (string iu in res)
-                    {
-                        Console.WriteLine(iu);
-                    }
+                    s[i] = new std(id, name, dep);   
                 }
-                
+                var res = s.Select(x => x.dept);
+
+                foreach (string iu in res)
+                {
+                    Console.WriteLine(iu);
+                }
+                Console.WriteLine("Enter the ID to search");
+                int ids = Convert.ToInt32(Console.ReadLine());
+                std r = s.FirstOrDefault(x => x.id == ids);
+                Console.WriteLine(r.id + " " + r.name + " " + r.dept);
+
             }
             catch (Exception e)
             {

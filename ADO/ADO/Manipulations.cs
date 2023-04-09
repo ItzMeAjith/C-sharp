@@ -4,7 +4,6 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 namespace ADO1
 {
     internal class Manipulations
@@ -112,7 +111,7 @@ namespace ADO1
             {
                 con = new SqlConnection("data source=DESKTOP-GL7RKG7\\SQLEXPRESS; database=CIET;integrated security=SSPI;");
 
-                SqlCommand cmd = new SqlCommand($"detete from ADOdepartment where Roll={roll}", con);
+                SqlCommand cmd = new SqlCommand($"delete from ADOdepartment where Roll={roll}", con);
                 con.Open();
                 cmd.ExecuteNonQuery();
 
