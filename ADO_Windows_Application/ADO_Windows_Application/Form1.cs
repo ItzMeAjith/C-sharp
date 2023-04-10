@@ -125,5 +125,26 @@ namespace ADO_Windows_Application
             }
             finally { con.Close(); }
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                int se = Convert.ToInt32(search.Text);
+                con = new SqlConnection("data source=DESKTOP-GL7RKG7\\SQLEXPRESS; database=CIET;integrated security=SSPI;");
+                con.Open();
+                cmd = new SqlCommand($"select * from Students where rollno={se}", con);
+                SqlDataReader dr = cmd.ExecuteReader();
+                DataTable tbl = new DataTable();
+                tbl.Load(dr);
+                dataGridView1.DataSource = tbl;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Something went wrong : " + ex.Message);
+            }
+            finally { con.Close(); }
+
+        }
     }
 }
