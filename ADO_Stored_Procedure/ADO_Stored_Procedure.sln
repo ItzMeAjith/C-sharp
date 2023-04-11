@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO_Stored_Procedure", "ADO_Stored_Procedure\ADO_Stored_Procedure.csproj", "{FA9A3D74-206A-4053-AA4D-74A9988E11E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADO_Stored_Procedure", "ADO_Stored_Procedure\ADO_Stored_Procedure.csproj", "{FA9A3D74-206A-4053-AA4D-74A9988E11E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows_ADO_Stored_Procedure", "Windows_ADO_Stored_Procedure\Windows_ADO_Stored_Procedure.csproj", "{47137E18-2F5F-4529-BF09-0A54077BF9A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows_ADO_Stored_Procedure", "Windows_ADO_Stored_Procedure\Windows_ADO_Stored_Procedure.csproj", "{2D68908E-9BD3-4861-B37F-2A3BD211D33C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{FA9A3D74-206A-4053-AA4D-74A9988E11E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA9A3D74-206A-4053-AA4D-74A9988E11E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA9A3D74-206A-4053-AA4D-74A9988E11E8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{47137E18-2F5F-4529-BF09-0A54077BF9A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{47137E18-2F5F-4529-BF09-0A54077BF9A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{47137E18-2F5F-4529-BF09-0A54077BF9A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{47137E18-2F5F-4529-BF09-0A54077BF9A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D68908E-9BD3-4861-B37F-2A3BD211D33C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D68908E-9BD3-4861-B37F-2A3BD211D33C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D68908E-9BD3-4861-B37F-2A3BD211D33C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D68908E-9BD3-4861-B37F-2A3BD211D33C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
