@@ -112,7 +112,7 @@ namespace ADO_Windows_Application
             {
                 con = new SqlConnection("data source=DESKTOP-GL7RKG7\\SQLEXPRESS; database=CIET;integrated security=SSPI;");
                 con.Open();
-                cmd = new SqlCommand($"select * from Students", con);
+                cmd = new SqlCommand($"select * from IT_dept", con);
                 SqlDataReader dr = cmd.ExecuteReader();
                 DataTable tbl = new DataTable();
                 tbl.Load(dr);
@@ -133,7 +133,7 @@ namespace ADO_Windows_Application
                 int se = Convert.ToInt32(search.Text);
                 con = new SqlConnection("data source=DESKTOP-GL7RKG7\\SQLEXPRESS; database=CIET;integrated security=SSPI;");
                 con.Open();
-                cmd = new SqlCommand($"select * from Students where rollno={se}", con);
+                cmd = new SqlCommand($"select * from IT_dept where rollno={se}", con);
                 SqlDataReader dr = cmd.ExecuteReader();
                 DataTable tbl = new DataTable();
                 tbl.Load(dr);
