@@ -14,7 +14,7 @@ namespace ADO_Stored_Procedure
             string op;
             do
             {
-                Console.WriteLine("Enter the option to be performed :\n1.Fetch all records\n2.Search\n3.Total count ");
+                Console.WriteLine("Enter the option to be performed :\n1.Fetch all records\n2.Search\n3.Total count\n4.Insert ");
                 int choice = Convert.ToInt32(Console.ReadLine());
                 switch (choice)
                 {
@@ -35,6 +35,19 @@ namespace ADO_Stored_Procedure
                             Console.Write("Enter the department to get count : ");
                             string dep = Console.ReadLine();
                             mn.Count(dep);
+                            break;
+                        }
+                    case 4:
+                        {
+                            Console.Write("Enter roll no : ");
+                            int roll = Convert.ToInt32(Console.ReadLine());
+                            Console.Write("Enter name : ");
+                            string name = Console.ReadLine();
+                            Console.Write("Enter dept : ");
+                            string dep = Console.ReadLine();
+                            Console.Write("Enter CGPA : ");
+                            double cgpa = Convert.ToDouble(Console.ReadLine());
+                            mn.Insert(roll,name,dep, cgpa);
                             break;
                         }
                     default:

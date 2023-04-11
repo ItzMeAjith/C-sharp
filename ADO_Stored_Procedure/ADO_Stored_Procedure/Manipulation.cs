@@ -108,5 +108,32 @@ namespace ADO_Stored_Procedure
                 con.Close();
             }
         }
+        public void Insert(int roll,string name,string dep,double cgpa)
+        {
+            try
+            {
+                con = new SqlConnection("data source=DESKTOP-GL7RKG7\\SQLEXPRESS; database=CIET;Trusted_Connection=SSPI;Encrypt=false;TrustServerCertificate=true");
+
+                cmd = new SqlCommand($"sp_insert", con);
+                con.Open();
+                cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                cmd.Parameters.AddWithValue("@dept", dep);
+                cmd.Parameters.AddWithValue("@name", name);
+                cmd.Parameters.AddWithValue("@roll", roll);
+                cmd.Parameters.AddWithValue("@cgpa", cgpa);
+                cmd.ExecuteNonQuery();
+
+                Console.WriteLine("Inserted Successfully");
+                Console.WriteLine("---------------------------------------------------------------");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Something went wrong : " + ex.Message);
+            }
+            finally
+            {
+                con.Close();
+            }
+        }
     }
 }
