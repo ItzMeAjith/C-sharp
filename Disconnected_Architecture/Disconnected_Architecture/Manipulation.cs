@@ -22,8 +22,7 @@ namespace Disconnected_Architecture
                 ad.Fill(ds,"Students");
                 foreach (DataRow dr in ds.Tables["Students"].Rows)
                 {
-                    //Console.WriteLine($"{dr[0]} {dr[1]} {dr[2]} {dr[3]}");
-                    Console.WriteLine(dr[0]);
+                    Console.WriteLine($"{dr[0]} {dr[1]} {dr[2]} {dr[3]}");
                 }
             }
             catch(Exception ex)
