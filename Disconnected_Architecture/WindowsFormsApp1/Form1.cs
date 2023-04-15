@@ -30,8 +30,6 @@ namespace WindowsFormsApp1
             ds = new DataSet();
             DataTable tbl=new DataTable();
             ad.Fill(tbl);
-            //ad.Fill(ds, "Students");
-            //tbl = ds.Tables["Students"];
             if (!ds.Tables.Contains("Students"))
             {
                 // Create the Employee table
@@ -44,6 +42,15 @@ namespace WindowsFormsApp1
             }
             dataGridView1.DataSource = tbl;
 
+        }
+        DataSet GetDataSet()
+        {
+            con = new SqlConnection("data source=DESKTOP-GL7RKG7\\SQLEXPRESS; database=CIET;Trusted_Connection=SSPI;Encrypt=false;TrustServerCertificate=true");
+            cmd = new SqlCommand("SELECT * FROM Students", con);
+            ad = new SqlDataAdapter(cmd);
+            ds = new DataSet();
+            ad.Fill(ds,"students");
+            return ds;
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -61,6 +68,24 @@ namespace WindowsFormsApp1
             ad.Update(ds, "Students");
 
             MessageBox.Show("New record added successfully.");
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            DataSet ds= GetDataSet();
+            string de=search.Text;
+            ad.Fill(ds,"Students");
+            var result = from dt in ds.Tables["Students"].AsEnumerable()
+                         where dt.Field<string>("Dept") == de
+                         select new
+                         {
+                             rollno = dt[0],
+                             name =dt[1],
+                             dept = dt[2],
+                             cgpa= dt[3]
+                         };
+            dataGridView2.DataSource = result;
 
         }
     }
