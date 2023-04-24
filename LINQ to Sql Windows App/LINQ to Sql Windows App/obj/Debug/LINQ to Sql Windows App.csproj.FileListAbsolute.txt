@@ -1,0 +1,11 @@
+D:\Internship\Training\C#\LINQ to Sql Windows App\LINQ to Sql Windows App\bin\Debug\LINQ to Sql Windows App.exe.config
+D:\Internship\Training\C#\LINQ to Sql Windows App\LINQ to Sql Windows App\bin\Debug\LINQ to Sql Windows App.exe
+D:\Internship\Training\C#\LINQ to Sql Windows App\LINQ to Sql Windows App\bin\Debug\LINQ to Sql Windows App.pdb
+D:\Internship\Training\C#\LINQ to Sql Windows App\LINQ to Sql Windows App\obj\Debug\LINQ to Sql Windows App.csproj.AssemblyReference.cache
+D:\Internship\Training\C#\LINQ to Sql Windows App\LINQ to Sql Windows App\obj\Debug\LINQ to Sql Windows App.csproj.SuggestedBindingRedirects.cache
+D:\Internship\Training\C#\LINQ to Sql Windows App\LINQ to Sql Windows App\obj\Debug\LINQ_to_Sql_Windows_App.Form1.resources
+D:\Internship\Training\C#\LINQ to Sql Windows App\LINQ to Sql Windows App\obj\Debug\LINQ_to_Sql_Windows_App.Properties.Resources.resources
+D:\Internship\Training\C#\LINQ to Sql Windows App\LINQ to Sql Windows App\obj\Debug\LINQ to Sql Windows App.csproj.GenerateResource.cache
+D:\Internship\Training\C#\LINQ to Sql Windows App\LINQ to Sql Windows App\obj\Debug\LINQ to Sql Windows App.csproj.CoreCompileInputs.cache
+D:\Internship\Training\C#\LINQ to Sql Windows App\LINQ to Sql Windows App\obj\Debug\LINQ to Sql Windows App.exe
+D:\Internship\Training\C#\LINQ to Sql Windows App\LINQ to Sql Windows App\obj\Debug\LINQ to Sql Windows App.pdb
