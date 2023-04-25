@@ -20,8 +20,16 @@ namespace Bank
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            DataClasses1DataContext dt= new DataClasses1DataContext();
-           // dataGridView1.DataSource=dt.ACCOUNTANT_DETAILs.ToList();
+            //DataClasses1DataContext dt= new DataClasses1DataContext();
+            //dataGridView1.DataSource=dt.ACCOUNTANT_DETAILs.ToList();
+            SqlConnection con = new SqlConnection("data source=DESKTOP-GL7RKG7\\SQLEXPRESS; database=Banking_system;integrated security=SSPI;");
+            con.Open();
+            SqlCommand cmd = new SqlCommand($"select * from accountant_details", con);
+            SqlDataReader dr = cmd.ExecuteReader();
+            DataTable tbl = new DataTable();
+            tbl.Load(dr);
+            dataGridView1.DataSource = tbl;
+
         }
 
         private void phone_Click(object sender, EventArgs e)
