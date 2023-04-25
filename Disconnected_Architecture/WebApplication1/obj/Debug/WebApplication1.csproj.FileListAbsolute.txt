@@ -1,2 +1,0 @@
-D:\Internship\Training\C#\Disconnected_Architecture\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
-D:\Internship\Training\C#\Disconnected_Architecture\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache

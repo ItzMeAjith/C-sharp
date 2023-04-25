@@ -1,5 +1,0 @@
-D:\Internship\Training\C#\Assemblylink\Assemblylink\obj\Debug\net6.0\Assemblylink.csproj.AssemblyReference.cache
-D:\Internship\Training\C#\Assemblylink\Assemblylink\obj\Debug\net6.0\Assemblylink.GeneratedMSBuildEditorConfig.editorconfig
-D:\Internship\Training\C#\Assemblylink\Assemblylink\obj\Debug\net6.0\Assemblylink.AssemblyInfoInputs.cache
-D:\Internship\Training\C#\Assemblylink\Assemblylink\obj\Debug\net6.0\Assemblylink.AssemblyInfo.cs
-D:\Internship\Training\C#\Assemblylink\Assemblylink\obj\Debug\net6.0\Assemblylink.csproj.CoreCompileInputs.cache
