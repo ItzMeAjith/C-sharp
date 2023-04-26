@@ -1,0 +1,15 @@
+D:\Internship\Training\C#\Final_Assignment\Final_Assignment\bin\Debug\net6.0\Final_Assignment.exe
+D:\Internship\Training\C#\Final_Assignment\Final_Assignment\bin\Debug\net6.0\Final_Assignment.deps.json
+D:\Internship\Training\C#\Final_Assignment\Final_Assignment\bin\Debug\net6.0\Final_Assignment.runtimeconfig.json
+D:\Internship\Training\C#\Final_Assignment\Final_Assignment\bin\Debug\net6.0\Final_Assignment.dll
+D:\Internship\Training\C#\Final_Assignment\Final_Assignment\bin\Debug\net6.0\Final_Assignment.pdb
+D:\Internship\Training\C#\Final_Assignment\Final_Assignment\obj\Debug\net6.0\Final_Assignment.csproj.AssemblyReference.cache
+D:\Internship\Training\C#\Final_Assignment\Final_Assignment\obj\Debug\net6.0\Final_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Training\C#\Final_Assignment\Final_Assignment\obj\Debug\net6.0\Final_Assignment.AssemblyInfoInputs.cache
+D:\Internship\Training\C#\Final_Assignment\Final_Assignment\obj\Debug\net6.0\Final_Assignment.AssemblyInfo.cs
+D:\Internship\Training\C#\Final_Assignment\Final_Assignment\obj\Debug\net6.0\Final_Assignment.csproj.CoreCompileInputs.cache
+D:\Internship\Training\C#\Final_Assignment\Final_Assignment\obj\Debug\net6.0\Final_Assignment.dll
+D:\Internship\Training\C#\Final_Assignment\Final_Assignment\obj\Debug\net6.0\refint\Final_Assignment.dll
+D:\Internship\Training\C#\Final_Assignment\Final_Assignment\obj\Debug\net6.0\Final_Assignment.pdb
+D:\Internship\Training\C#\Final_Assignment\Final_Assignment\obj\Debug\net6.0\Final_Assignment.genruntimeconfig.cache
+D:\Internship\Training\C#\Final_Assignment\Final_Assignment\obj\Debug\net6.0\ref\Final_Assignment.dll

@@ -1,0 +1,15 @@
+D:\Internship\Training\C#\Final_Assignment\Flight_Status\bin\Debug\net6.0\Flight_Status.exe
+D:\Internship\Training\C#\Final_Assignment\Flight_Status\bin\Debug\net6.0\Flight_Status.deps.json
+D:\Internship\Training\C#\Final_Assignment\Flight_Status\bin\Debug\net6.0\Flight_Status.runtimeconfig.json
+D:\Internship\Training\C#\Final_Assignment\Flight_Status\bin\Debug\net6.0\Flight_Status.dll
+D:\Internship\Training\C#\Final_Assignment\Flight_Status\bin\Debug\net6.0\Flight_Status.pdb
+D:\Internship\Training\C#\Final_Assignment\Flight_Status\obj\Debug\net6.0\Flight_Status.csproj.AssemblyReference.cache
+D:\Internship\Training\C#\Final_Assignment\Flight_Status\obj\Debug\net6.0\Flight_Status.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Training\C#\Final_Assignment\Flight_Status\obj\Debug\net6.0\Flight_Status.AssemblyInfoInputs.cache
+D:\Internship\Training\C#\Final_Assignment\Flight_Status\obj\Debug\net6.0\Flight_Status.AssemblyInfo.cs
+D:\Internship\Training\C#\Final_Assignment\Flight_Status\obj\Debug\net6.0\Flight_Status.csproj.CoreCompileInputs.cache
+D:\Internship\Training\C#\Final_Assignment\Flight_Status\obj\Debug\net6.0\Flight_Status.dll
+D:\Internship\Training\C#\Final_Assignment\Flight_Status\obj\Debug\net6.0\refint\Flight_Status.dll
+D:\Internship\Training\C#\Final_Assignment\Flight_Status\obj\Debug\net6.0\Flight_Status.pdb
+D:\Internship\Training\C#\Final_Assignment\Flight_Status\obj\Debug\net6.0\Flight_Status.genruntimeconfig.cache
+D:\Internship\Training\C#\Final_Assignment\Flight_Status\obj\Debug\net6.0\ref\Flight_Status.dll

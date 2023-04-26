@@ -1,0 +1,15 @@
+D:\Internship\Training\C#\Parameters\Parameters\bin\Debug\net6.0\Parameters.exe
+D:\Internship\Training\C#\Parameters\Parameters\bin\Debug\net6.0\Parameters.deps.json
+D:\Internship\Training\C#\Parameters\Parameters\bin\Debug\net6.0\Parameters.runtimeconfig.json
+D:\Internship\Training\C#\Parameters\Parameters\bin\Debug\net6.0\Parameters.dll
+D:\Internship\Training\C#\Parameters\Parameters\bin\Debug\net6.0\Parameters.pdb
+D:\Internship\Training\C#\Parameters\Parameters\obj\Debug\net6.0\Parameters.csproj.AssemblyReference.cache
+D:\Internship\Training\C#\Parameters\Parameters\obj\Debug\net6.0\Parameters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Training\C#\Parameters\Parameters\obj\Debug\net6.0\Parameters.AssemblyInfoInputs.cache
+D:\Internship\Training\C#\Parameters\Parameters\obj\Debug\net6.0\Parameters.AssemblyInfo.cs
+D:\Internship\Training\C#\Parameters\Parameters\obj\Debug\net6.0\Parameters.csproj.CoreCompileInputs.cache
+D:\Internship\Training\C#\Parameters\Parameters\obj\Debug\net6.0\Parameters.dll
+D:\Internship\Training\C#\Parameters\Parameters\obj\Debug\net6.0\refint\Parameters.dll
+D:\Internship\Training\C#\Parameters\Parameters\obj\Debug\net6.0\Parameters.pdb
+D:\Internship\Training\C#\Parameters\Parameters\obj\Debug\net6.0\Parameters.genruntimeconfig.cache
+D:\Internship\Training\C#\Parameters\Parameters\obj\Debug\net6.0\ref\Parameters.dll

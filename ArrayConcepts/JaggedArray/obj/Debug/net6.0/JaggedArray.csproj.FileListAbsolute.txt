@@ -1,0 +1,15 @@
+D:\Internship\Training\C#\ArrayConcepts\JaggedArray\obj\Debug\net6.0\JaggedArray.csproj.AssemblyReference.cache
+D:\Internship\Training\C#\ArrayConcepts\JaggedArray\obj\Debug\net6.0\JaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Training\C#\ArrayConcepts\JaggedArray\obj\Debug\net6.0\JaggedArray.AssemblyInfoInputs.cache
+D:\Internship\Training\C#\ArrayConcepts\JaggedArray\obj\Debug\net6.0\JaggedArray.AssemblyInfo.cs
+D:\Internship\Training\C#\ArrayConcepts\JaggedArray\obj\Debug\net6.0\JaggedArray.csproj.CoreCompileInputs.cache
+D:\Internship\Training\C#\ArrayConcepts\JaggedArray\bin\Debug\net6.0\JaggedArray.exe
+D:\Internship\Training\C#\ArrayConcepts\JaggedArray\bin\Debug\net6.0\JaggedArray.deps.json
+D:\Internship\Training\C#\ArrayConcepts\JaggedArray\bin\Debug\net6.0\JaggedArray.runtimeconfig.json
+D:\Internship\Training\C#\ArrayConcepts\JaggedArray\bin\Debug\net6.0\JaggedArray.dll
+D:\Internship\Training\C#\ArrayConcepts\JaggedArray\bin\Debug\net6.0\JaggedArray.pdb
+D:\Internship\Training\C#\ArrayConcepts\JaggedArray\obj\Debug\net6.0\JaggedArray.dll
+D:\Internship\Training\C#\ArrayConcepts\JaggedArray\obj\Debug\net6.0\refint\JaggedArray.dll
+D:\Internship\Training\C#\ArrayConcepts\JaggedArray\obj\Debug\net6.0\JaggedArray.pdb
+D:\Internship\Training\C#\ArrayConcepts\JaggedArray\obj\Debug\net6.0\JaggedArray.genruntimeconfig.cache
+D:\Internship\Training\C#\ArrayConcepts\JaggedArray\obj\Debug\net6.0\ref\JaggedArray.dll
