@@ -1,0 +1,2 @@
+D:\Internship\Training\C#\LINQ TO SQL_FINAL\LINQ TO SQL_FINAL\obj\Debug\LINQ TO SQL_FINAL.csproj.AssemblyReference.cache
+D:\Internship\Training\C#\LINQ TO SQL_FINAL\LINQ TO SQL_FINAL\obj\Debug\LINQ TO SQL_FINAL.csproj.CoreCompileInputs.cache
