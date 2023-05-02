@@ -36,6 +36,7 @@ namespace BANK_MANAGEMENT_SYSTEM
                 cmd = new SqlCommand($"insert into accountant_details(UserID,Name,birthdate,phoneno,mailid,address,photo) values" +
                     $"('{user}','{nme}','{dob}','{ph}','{mai}','{add}','{pi}')", con);
                 cmd.ExecuteNonQuery();
+               // SqlCommand cmd1 = new SqlCommand($"insert into user_transaction values({accno},{bal})",con);
                 MessageBox.Show("Account created successfully!!!!!");
                 Response.Redirect("Bank_Home.aspx");
                

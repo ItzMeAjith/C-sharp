@@ -7,12 +7,16 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            using(OrderBbContext con=new OrderBbContext())
+            Fetch();
+        }
+        public static void Fetch()
+        {
+            using (OrderBbContext con = new OrderBbContext())
             {
-                var re=con.Orders.ToList();
-                foreach(var item in re)
+                var re = con.Orders.ToList();
+                foreach (var item in re)
                 {
-                    Console.WriteLine(item.OrderID+" "+item.ItemName);
+                    Console.WriteLine($"{item.OrderID} {item.ItemName} {item.OrderTime} {item.AmountPaid} {item.DeliveryAddress}");
                 }
             }
         }

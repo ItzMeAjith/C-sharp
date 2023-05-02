@@ -11,8 +11,8 @@ namespace LINQ_TO_SQL_FINAL
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            DataClasses1DataContext data = new DataClasses1DataContext();
-            GridView1.DataSource = data.MENUs.ToList();
+            DataClasses1DataContext dt=new DataClasses1DataContext();
+            GridView1.DataSource = dt.Clg_Depts.ToList();
             GridView1.DataBind();
         }
     }

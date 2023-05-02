@@ -22,7 +22,7 @@ namespace LINQ_TO_SQL_FINAL
 	using System;
 	
 	
-	[global::System.Data.Linq.Mapping.DatabaseAttribute(Name="Canteen_Management")]
+	[global::System.Data.Linq.Mapping.DatabaseAttribute(Name="CIET")]
 	public partial class DataClasses1DataContext : System.Data.Linq.DataContext
 	{
 		
@@ -30,9 +30,12 @@ namespace LINQ_TO_SQL_FINAL
 		
     #region Extensibility Method Definitions
     partial void OnCreated();
-    partial void InsertMENU(MENU instance);
-    partial void UpdateMENU(MENU instance);
-    partial void DeleteMENU(MENU instance);
+    partial void InsertClg_Dept(Clg_Dept instance);
+    partial void UpdateClg_Dept(Clg_Dept instance);
+    partial void DeleteClg_Dept(Clg_Dept instance);
+    partial void InsertDepartment(Department instance);
+    partial void UpdateDepartment(Department instance);
+    partial void DeleteDepartment(Department instance);
     #endregion
 		
 		public DataClasses1DataContext(string connection) : 
@@ -63,148 +66,293 @@ namespace LINQ_TO_SQL_FINAL
         {
         }
 
-        public System.Data.Linq.Table<MENU> MENUs
+        public System.Data.Linq.Table<Clg_Dept> Clg_Depts
 		{
 			get
 			{
-				return this.GetTable<MENU>();
+				return this.GetTable<Clg_Dept>();
+			}
+		}
+		
+		public System.Data.Linq.Table<Department> Departments
+		{
+			get
+			{
+				return this.GetTable<Department>();
 			}
 		}
 	}
 	
-	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.MENU")]
-	public partial class MENU : INotifyPropertyChanging, INotifyPropertyChanged
+	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.Clg_Depts")]
+	public partial class Clg_Dept : INotifyPropertyChanging, INotifyPropertyChanged
 	{
 		
 		private static PropertyChangingEventArgs emptyChangingEventArgs = new PropertyChangingEventArgs(String.Empty);
 		
-		private int _ItemID;
+		private int _Rollno;
 		
-		private string _ItemName;
+		private string _Stdname;
 		
-		private string _ItemType;
+		private System.Nullable<long> _Phoneno;
 		
-		private System.Nullable<decimal> _Price;
+		private string _MailID;
 		
-		private string _Offer;
+		private string _Stdaddress;
+		
+		private string _Bloodgrp;
+		
+		private System.Nullable<System.DateTime> _DOB;
+		
+		private System.Nullable<int> _age;
+		
+		private System.Nullable<int> _DeptID;
+		
+		private EntityRef<Department> _Department;
 		
     #region Extensibility Method Definitions
     partial void OnLoaded();
     partial void OnValidate(System.Data.Linq.ChangeAction action);
     partial void OnCreated();
-    partial void OnItemIDChanging(int value);
-    partial void OnItemIDChanged();
-    partial void OnItemNameChanging(string value);
-    partial void OnItemNameChanged();
-    partial void OnItemTypeChanging(string value);
-    partial void OnItemTypeChanged();
-    partial void OnPriceChanging(System.Nullable<decimal> value);
-    partial void OnPriceChanged();
-    partial void OnOfferChanging(string value);
-    partial void OnOfferChanged();
+    partial void OnRollnoChanging(int value);
+    partial void OnRollnoChanged();
+    partial void OnStdnameChanging(string value);
+    partial void OnStdnameChanged();
+    partial void OnPhonenoChanging(System.Nullable<long> value);
+    partial void OnPhonenoChanged();
+    partial void OnMailIDChanging(string value);
+    partial void OnMailIDChanged();
+    partial void OnStdaddressChanging(string value);
+    partial void OnStdaddressChanged();
+    partial void OnBloodgrpChanging(string value);
+    partial void OnBloodgrpChanged();
+    partial void OnDOBChanging(System.Nullable<System.DateTime> value);
+    partial void OnDOBChanged();
+    partial void OnageChanging(System.Nullable<int> value);
+    partial void OnageChanged();
+    partial void OnDeptIDChanging(System.Nullable<int> value);
+    partial void OnDeptIDChanged();
     #endregion
 		
-		public MENU()
+		public Clg_Dept()
 		{
+			this._Department = default(EntityRef<Department>);
 			OnCreated();
 		}
 		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ItemID", AutoSync=AutoSync.OnInsert, DbType="Int NOT NULL IDENTITY", IsPrimaryKey=true, IsDbGenerated=true)]
-		public int ItemID
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Rollno", AutoSync=AutoSync.OnInsert, DbType="Int NOT NULL IDENTITY", IsPrimaryKey=true, IsDbGenerated=true)]
+		public int Rollno
 		{
 			get
 			{
-				return this._ItemID;
+				return this._Rollno;
 			}
 			set
 			{
-				if ((this._ItemID != value))
+				if ((this._Rollno != value))
 				{
-					this.OnItemIDChanging(value);
+					this.OnRollnoChanging(value);
 					this.SendPropertyChanging();
-					this._ItemID = value;
-					this.SendPropertyChanged("ItemID");
-					this.OnItemIDChanged();
+					this._Rollno = value;
+					this.SendPropertyChanged("Rollno");
+					this.OnRollnoChanged();
 				}
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ItemName", DbType="VarChar(30)")]
-		public string ItemName
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Stdname", DbType="VarChar(30)")]
+		public string Stdname
 		{
 			get
 			{
-				return this._ItemName;
+				return this._Stdname;
 			}
 			set
 			{
-				if ((this._ItemName != value))
+				if ((this._Stdname != value))
 				{
-					this.OnItemNameChanging(value);
+					this.OnStdnameChanging(value);
 					this.SendPropertyChanging();
-					this._ItemName = value;
-					this.SendPropertyChanged("ItemName");
-					this.OnItemNameChanged();
+					this._Stdname = value;
+					this.SendPropertyChanged("Stdname");
+					this.OnStdnameChanged();
 				}
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ItemType", DbType="VarChar(30)")]
-		public string ItemType
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Phoneno", DbType="BigInt")]
+		public System.Nullable<long> Phoneno
 		{
 			get
 			{
-				return this._ItemType;
+				return this._Phoneno;
 			}
 			set
 			{
-				if ((this._ItemType != value))
+				if ((this._Phoneno != value))
 				{
-					this.OnItemTypeChanging(value);
+					this.OnPhonenoChanging(value);
 					this.SendPropertyChanging();
-					this._ItemType = value;
-					this.SendPropertyChanged("ItemType");
-					this.OnItemTypeChanged();
+					this._Phoneno = value;
+					this.SendPropertyChanged("Phoneno");
+					this.OnPhonenoChanged();
 				}
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Price", DbType="Decimal(10,2)")]
-		public System.Nullable<decimal> Price
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_MailID", DbType="VarChar(40)")]
+		public string MailID
 		{
 			get
 			{
-				return this._Price;
+				return this._MailID;
 			}
 			set
 			{
-				if ((this._Price != value))
+				if ((this._MailID != value))
 				{
-					this.OnPriceChanging(value);
+					this.OnMailIDChanging(value);
 					this.SendPropertyChanging();
-					this._Price = value;
-					this.SendPropertyChanged("Price");
-					this.OnPriceChanged();
+					this._MailID = value;
+					this.SendPropertyChanged("MailID");
+					this.OnMailIDChanged();
 				}
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Offer", DbType="VarChar(5)")]
-		public string Offer
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Stdaddress", DbType="VarChar(40)")]
+		public string Stdaddress
 		{
 			get
 			{
-				return this._Offer;
+				return this._Stdaddress;
 			}
 			set
 			{
-				if ((this._Offer != value))
+				if ((this._Stdaddress != value))
 				{
-					this.OnOfferChanging(value);
+					this.OnStdaddressChanging(value);
 					this.SendPropertyChanging();
-					this._Offer = value;
-					this.SendPropertyChanged("Offer");
-					this.OnOfferChanged();
+					this._Stdaddress = value;
+					this.SendPropertyChanged("Stdaddress");
+					this.OnStdaddressChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Bloodgrp", DbType="VarChar(5)")]
+		public string Bloodgrp
+		{
+			get
+			{
+				return this._Bloodgrp;
+			}
+			set
+			{
+				if ((this._Bloodgrp != value))
+				{
+					this.OnBloodgrpChanging(value);
+					this.SendPropertyChanging();
+					this._Bloodgrp = value;
+					this.SendPropertyChanged("Bloodgrp");
+					this.OnBloodgrpChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_DOB", DbType="Date")]
+		public System.Nullable<System.DateTime> DOB
+		{
+			get
+			{
+				return this._DOB;
+			}
+			set
+			{
+				if ((this._DOB != value))
+				{
+					this.OnDOBChanging(value);
+					this.SendPropertyChanging();
+					this._DOB = value;
+					this.SendPropertyChanged("DOB");
+					this.OnDOBChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_age", DbType="Int")]
+		public System.Nullable<int> age
+		{
+			get
+			{
+				return this._age;
+			}
+			set
+			{
+				if ((this._age != value))
+				{
+					this.OnageChanging(value);
+					this.SendPropertyChanging();
+					this._age = value;
+					this.SendPropertyChanged("age");
+					this.OnageChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_DeptID", DbType="Int")]
+		public System.Nullable<int> DeptID
+		{
+			get
+			{
+				return this._DeptID;
+			}
+			set
+			{
+				if ((this._DeptID != value))
+				{
+					if (this._Department.HasLoadedOrAssignedValue)
+					{
+						throw new System.Data.Linq.ForeignKeyReferenceAlreadyHasValueException();
+					}
+					this.OnDeptIDChanging(value);
+					this.SendPropertyChanging();
+					this._DeptID = value;
+					this.SendPropertyChanged("DeptID");
+					this.OnDeptIDChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Department_Clg_Dept", Storage="_Department", ThisKey="DeptID", OtherKey="DeptID", IsForeignKey=true)]
+		public Department Department
+		{
+			get
+			{
+				return this._Department.Entity;
+			}
+			set
+			{
+				Department previousValue = this._Department.Entity;
+				if (((previousValue != value) 
+							|| (this._Department.HasLoadedOrAssignedValue == false)))
+				{
+					this.SendPropertyChanging();
+					if ((previousValue != null))
+					{
+						this._Department.Entity = null;
+						previousValue.Clg_Depts.Remove(this);
+					}
+					this._Department.Entity = value;
+					if ((value != null))
+					{
+						value.Clg_Depts.Add(this);
+						this._DeptID = value.DeptID;
+					}
+					else
+					{
+						this._DeptID = default(Nullable<int>);
+					}
+					this.SendPropertyChanged("Department");
 				}
 			}
 		}
@@ -227,6 +375,120 @@ namespace LINQ_TO_SQL_FINAL
 			{
 				this.PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
 			}
+		}
+	}
+	
+	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.Department")]
+	public partial class Department : INotifyPropertyChanging, INotifyPropertyChanged
+	{
+		
+		private static PropertyChangingEventArgs emptyChangingEventArgs = new PropertyChangingEventArgs(String.Empty);
+		
+		private int _DeptID;
+		
+		private string _Deptname;
+		
+		private EntitySet<Clg_Dept> _Clg_Depts;
+		
+    #region Extensibility Method Definitions
+    partial void OnLoaded();
+    partial void OnValidate(System.Data.Linq.ChangeAction action);
+    partial void OnCreated();
+    partial void OnDeptIDChanging(int value);
+    partial void OnDeptIDChanged();
+    partial void OnDeptnameChanging(string value);
+    partial void OnDeptnameChanged();
+    #endregion
+		
+		public Department()
+		{
+			this._Clg_Depts = new EntitySet<Clg_Dept>(new Action<Clg_Dept>(this.attach_Clg_Depts), new Action<Clg_Dept>(this.detach_Clg_Depts));
+			OnCreated();
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_DeptID", DbType="Int NOT NULL", IsPrimaryKey=true)]
+		public int DeptID
+		{
+			get
+			{
+				return this._DeptID;
+			}
+			set
+			{
+				if ((this._DeptID != value))
+				{
+					this.OnDeptIDChanging(value);
+					this.SendPropertyChanging();
+					this._DeptID = value;
+					this.SendPropertyChanged("DeptID");
+					this.OnDeptIDChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Deptname", DbType="VarChar(20)")]
+		public string Deptname
+		{
+			get
+			{
+				return this._Deptname;
+			}
+			set
+			{
+				if ((this._Deptname != value))
+				{
+					this.OnDeptnameChanging(value);
+					this.SendPropertyChanging();
+					this._Deptname = value;
+					this.SendPropertyChanged("Deptname");
+					this.OnDeptnameChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Department_Clg_Dept", Storage="_Clg_Depts", ThisKey="DeptID", OtherKey="DeptID")]
+		public EntitySet<Clg_Dept> Clg_Depts
+		{
+			get
+			{
+				return this._Clg_Depts;
+			}
+			set
+			{
+				this._Clg_Depts.Assign(value);
+			}
+		}
+		
+		public event PropertyChangingEventHandler PropertyChanging;
+		
+		public event PropertyChangedEventHandler PropertyChanged;
+		
+		protected virtual void SendPropertyChanging()
+		{
+			if ((this.PropertyChanging != null))
+			{
+				this.PropertyChanging(this, emptyChangingEventArgs);
+			}
+		}
+		
+		protected virtual void SendPropertyChanged(String propertyName)
+		{
+			if ((this.PropertyChanged != null))
+			{
+				this.PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
+			}
+		}
+		
+		private void attach_Clg_Depts(Clg_Dept entity)
+		{
+			this.SendPropertyChanging();
+			entity.Department = this;
+		}
+		
+		private void detach_Clg_Depts(Clg_Dept entity)
+		{
+			this.SendPropertyChanging();
+			entity.Department = null;
 		}
 	}
 }

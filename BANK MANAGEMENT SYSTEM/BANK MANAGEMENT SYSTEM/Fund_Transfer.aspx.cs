@@ -30,16 +30,19 @@ namespace BANK_MANAGEMENT_SYSTEM
                 con.Open();
                 string stst = "";
                 int accno = Convert.ToInt32(F_Accno.Value);
+               // MessageBox.Show("no : "+accno);
                 int amt = Convert.ToInt32(F_Amount.Value);
                 string act = F_Action.Value;
-                SqlCommand cm1= new SqlCommand($"sp_balance", con);
+               SqlCommand cm1= new SqlCommand($"sp_balance", con);
 
-                cm1 = new SqlCommand($"sp_Login", con);
+               // SqlCommand cm1 = new SqlCommand($"sp_Login", con);
                 cm1.CommandType = System.Data.CommandType.StoredProcedure;
                 cm1.Parameters.AddWithValue("@accno", accno);
                 cm1.Parameters.Add("@bal", SqlDbType.Int).Direction = ParameterDirection.Output;
                 cm1.ExecuteNonQuery();
-                int balance = (int)cmd.Parameters["@bal"].Value;
+                MessageBox.Show(""+ cm1.Parameters["@bal"].Value);
+                int balance = 0;
+                MessageBox.Show(""+balance);
                 if (balance > amt)
                 {
                     stst = "Success";
@@ -58,13 +61,12 @@ namespace BANK_MANAGEMENT_SYSTEM
                 SqlCommand cmd1 = new SqlCommand($"update user_transaction set balance={balance} where accountno={accno}",con);
                 cmd1.ExecuteNonQuery();
                 //////
-                con.Close();
                 MessageBox.Show($"Amount {amt} is successfully {act}ed");
                 Response.Redirect("Bank_Home.aspx");
             }
             catch(Exception ex)
             {
-                MessageBox.Show("Account Number is incorrect!!!");
+                MessageBox.Show("Account Number is incorrect!!!"+ex.Message);
             }
             finally { con.Close(); }
         }

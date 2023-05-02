@@ -378,7 +378,9 @@ namespace LINQ_to_Sql_Windows_App
 				this.PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
 			}
 		}
-	}
+
+        
+    }
 	
 	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.Department")]
 	public partial class Department : INotifyPropertyChanging, INotifyPropertyChanged

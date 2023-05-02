@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CODE FIRST APPROACH", "CODE FIRST APPROACH\CODE FIRST APPROACH.csproj", "{17AE913F-0D3A-4145-93C4-015FD5BBB816}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CODE FIRST APPROACH", "CODE FIRST APPROACH\CODE FIRST APPROACH.csproj", "{17AE913F-0D3A-4145-93C4-015FD5BBB816}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ONE TO ONE", "ONE TO ONE\ONE TO ONE.csproj", "{80024F41-AEEE-4F17-AF15-9A7A944F0CA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{17AE913F-0D3A-4145-93C4-015FD5BBB816}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17AE913F-0D3A-4145-93C4-015FD5BBB816}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17AE913F-0D3A-4145-93C4-015FD5BBB816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80024F41-AEEE-4F17-AF15-9A7A944F0CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80024F41-AEEE-4F17-AF15-9A7A944F0CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80024F41-AEEE-4F17-AF15-9A7A944F0CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80024F41-AEEE-4F17-AF15-9A7A944F0CA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

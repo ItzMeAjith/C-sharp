@@ -19,8 +19,11 @@ namespace LINQ_to_Sql_Windows_App
 
         private void Form1_Load(object sender, EventArgs e)
         {
+           // int id=Convert.ToInt32(textBox1.Text);
             DataClasses1DataContext dt= new DataClasses1DataContext();
-            dataGridView1.DataSource= dt.Clg_Depts.ToList();
+            Clg_Dept cp=dt.Clg_Depts.First(x=>x.Rollno==1);
+            dataGridView1.DataSource = cp;
+            textBox1.Text = cp.Stdname;
         }
     }
 }
