@@ -58,7 +58,7 @@ namespace LINQ_to_SQL_28_04
 		}
 
         public DataClasses1DataContext() :
-         base(global::Foo.Properties.Settings.Default.BarConnectionString,
+         base(global::LINQ_to_SQL_28_04.Properties.Settings.Default.BarConnectionString,
              mappingSource)
         {
             OnCreated();

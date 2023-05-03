@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mT5H2OKvlNqL6ZJY5Djt9MNF+/t1fd15cg7ss88QeO0=",
+  "Source": "OneToManyWebAPI",
+  "BasePath": "_content/OneToManyWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

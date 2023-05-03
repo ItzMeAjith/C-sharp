@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Bank" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-GL7RKG7\SQLEXPRESS;Initial Catalog=Bank;Integrated Security=True" SettingsObjectName="WindowsFormsApp1.Properties.Settings" SettingsPropertyName="BankConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.AccountInfo" Member="AccountInfos">
+    <Type Name="AccountInfo">
+      <Column Name="AccountNo" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Acc_Name" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="Phone" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="AccOpeningDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="AccountBalance" Type="System.Decimal" DbType="Decimal(10,2)" CanBeNull="true" />
+      <Association Name="AccountInfo_Transaction" Member="Transactions" ThisKey="AccountNo" OtherKey="AccountNo" Type="Transaction" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Transactions" Member="Transactions">
+    <Type Name="Transaction">
+      <Column Name="TranID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="AccountNo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="action" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="status" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="updatedon" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="TransactionAmount" Type="System.Decimal" DbType="Decimal(10,2)" CanBeNull="true" />
+      <Association Name="AccountInfo_Transaction" Member="AccountInfo" ThisKey="AccountNo" OtherKey="AccountNo" Type="AccountInfo" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

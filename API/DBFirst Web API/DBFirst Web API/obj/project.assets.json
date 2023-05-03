@@ -3727,11 +3727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Internship\\Training\\C#\\DBFirst Web API\\DBFirst Web API\\DBFirst Web API.csproj",
+      "projectUniqueName": "D:\\Internship\\Training\\C#\\API\\DBFirst Web API\\DBFirst Web API\\DBFirst Web API.csproj",
       "projectName": "DBFirst Web API",
-      "projectPath": "D:\\Internship\\Training\\C#\\DBFirst Web API\\DBFirst Web API\\DBFirst Web API.csproj",
+      "projectPath": "D:\\Internship\\Training\\C#\\API\\DBFirst Web API\\DBFirst Web API\\DBFirst Web API.csproj",
       "packagesPath": "C:\\Users\\Hariprakash R\\.nuget\\packages\\",
-      "outputPath": "D:\\Internship\\Training\\C#\\DBFirst Web API\\DBFirst Web API\\obj\\",
+      "outputPath": "D:\\Internship\\Training\\C#\\API\\DBFirst Web API\\DBFirst Web API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hariprakash R\\AppData\\Roaming\\NuGet\\NuGet.Config",

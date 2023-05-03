@@ -35,7 +35,7 @@ namespace DBFirst_Web_API.Controllers
         [HttpPost]
         public async Task<ActionResult<string>> PostMenu(Menu mn)
         {
-             con.Menus.Add(mn);
+            con.Menus.Add(mn);
             await con.SaveChangesAsync();
             return Ok(mn);
         }
