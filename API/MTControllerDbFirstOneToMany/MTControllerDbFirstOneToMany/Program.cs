@@ -13,6 +13,10 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<BankContext>(op => op.UseSqlServer(builder.Configuration.GetConnectionString("OneToManyConnection")));
 //Cyclic error
 builder.Services.AddControllers().AddNewtonsoftJson(options => options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
+
+
+//Adding instances to the interfaces and class
+//builder.Services.AddScoped<AccountInfo,Transaction>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

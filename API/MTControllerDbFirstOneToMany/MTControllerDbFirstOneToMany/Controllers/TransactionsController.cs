@@ -89,7 +89,7 @@ namespace MTControllerDbFirstOneToMany.Controllers
           {
               return Problem("Entity set 'BankContext.Transactions'  is null.");
           }
-          AccountInfo acc=await _context.AccountInfos.FindAsync(transaction.AccountNoNavigation.AccountNo);
+            AccountInfo acc=await _context.AccountInfos.FindAsync(transaction.AccountNoNavigation.AccountNo);
             transaction.AccountNoNavigation = acc;
             _context.Transactions.Add(transaction);
             await _context.SaveChangesAsync();
