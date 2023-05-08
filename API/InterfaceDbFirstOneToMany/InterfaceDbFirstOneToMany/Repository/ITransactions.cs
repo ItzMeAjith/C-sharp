@@ -18,5 +18,8 @@ namespace InterfaceDbFirstOneToMany.Repository
 
         //Delete
         public string Delete(int id);
+
+        //count
+        public int Count(int acno);
     }
 }

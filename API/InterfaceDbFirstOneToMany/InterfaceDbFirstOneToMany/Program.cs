@@ -22,7 +22,6 @@ builder.Services.AddScoped<IAccountInfo,DerivedAccountInfo>();
 
 builder.Services.AddScoped<ITransactions,DerivedTransactions>();
 
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

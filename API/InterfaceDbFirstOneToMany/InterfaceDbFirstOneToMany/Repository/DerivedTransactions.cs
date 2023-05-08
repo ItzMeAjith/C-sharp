@@ -37,9 +37,10 @@ namespace InterfaceDbFirstOneToMany.Repository
         //Post
         public string Post(Transaction tr)
         {
-            ctx.Transactions.Add(tr);
             AccountInfo acc = ctx.AccountInfos.Find(tr.AccountNoNavigation.AccountNo);
             tr.AccountNoNavigation = acc;
+            ctx.Transactions.Add(tr);
+            
             ctx.SaveChanges();
             return "Transaction added Successfully !!!";
         }
@@ -51,5 +52,14 @@ namespace InterfaceDbFirstOneToMany.Repository
             ctx.SaveChanges();
             return "Transaction updated successfully!!!";
         }
+
+        //count
+
+        public int Count(int acno)
+        {
+            int res = ctx.Transactions.Count(x => x.AccountNo==acno);
+            return res;
+        }
+
     }
 }

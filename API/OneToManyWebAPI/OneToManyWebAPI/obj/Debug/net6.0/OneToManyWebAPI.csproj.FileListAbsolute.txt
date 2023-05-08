@@ -290,3 +290,4 @@ D:\Internship\Training\C#\API\OneToManyWebAPI\OneToManyWebAPI\bin\Debug\net6.0\r
 D:\Internship\Training\C#\API\OneToManyWebAPI\OneToManyWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
 D:\Internship\Training\C#\API\OneToManyWebAPI\OneToManyWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 D:\Internship\Training\C#\API\OneToManyWebAPI\OneToManyWebAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Internship\Training\C#\API\OneToManyWebAPI\OneToManyWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

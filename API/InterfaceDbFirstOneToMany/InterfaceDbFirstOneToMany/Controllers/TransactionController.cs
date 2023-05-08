@@ -23,11 +23,11 @@ namespace InterfaceDbFirstOneToMany.Controllers
         }
 
         //Get by ID
-        [HttpGet("{id}")]
+       /* [HttpGet("{id}")]
         public Transaction GetbyID(int id)
         {
             return AccInfo.GetBYID(id);
-        }
+        } */
 
         //Post
         [HttpPost]
@@ -51,6 +51,13 @@ namespace InterfaceDbFirstOneToMany.Controllers
         {
             AccInfo.Delete(id);
             return "Transaction Deleted Successfully!!!";
+        }
+
+        //count
+        [HttpGet("{id}")]
+        public string Count(int id)
+        {
+            return "The total transactions made by account no "+id+" is "+AccInfo.Count(id);
         }
     }
 }

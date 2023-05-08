@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xBR2kRWAYk1FE0PkQPge8bjMdOd94uZN7u2O4QEAqnHKDjn8SYKeonW9/LO5rdoq0EQPY5vdxHsQdg5hjr0gzA==",
+  "dgSpecHash": "ds/Bpez6xRA3tImRJGziSf0td9cMNag0HKneoD+Fow8dYyfZvZ8TqqS+4kK21lpkjUOOR6aIQhTfN61+dkBV6Q==",
   "success": true,
   "projectFilePath": "D:\\Internship\\Training\\C#\\API\\OneToManyWebAPI\\OneToManyWebAPI\\OneToManyWebAPI.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\Hariprakash R\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\Hariprakash R\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
     "C:\\Users\\Hariprakash R\\.nuget\\packages\\messagepackanalyzer\\2.1.152\\messagepackanalyzer.2.1.152.nupkg.sha512",
+    "C:\\Users\\Hariprakash R\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.16\\microsoft.aspnetcore.authentication.jwtbearer.6.0.16.nupkg.sha512",
     "C:\\Users\\Hariprakash R\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.16\\microsoft.aspnetcore.jsonpatch.6.0.16.nupkg.sha512",
     "C:\\Users\\Hariprakash R\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.16\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.16.nupkg.sha512",
     "C:\\Users\\Hariprakash R\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.0\\microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512",

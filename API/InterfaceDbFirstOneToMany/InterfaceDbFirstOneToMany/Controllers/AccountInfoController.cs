@@ -52,5 +52,8 @@ namespace InterfaceDbFirstOneToMany.Controllers
             AccInfo.Delete(id);
             return "Deleted Successfully!!!";
         }
+
+        //Count
+
     }
 }

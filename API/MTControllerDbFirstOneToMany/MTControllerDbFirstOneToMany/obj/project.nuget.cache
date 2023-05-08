@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zBJIZ3Lw2b/P9FTFfZMaSE4ERnYWzydixsjb6IW7FtrpJp/Wh8bWuz5WiBBmD0AOjqze8AyLzIwr8xfCRBYjVg==",
+  "dgSpecHash": "j41HZ5SZucWRqkZRsW9f5nNKYBrH2bdfyx8GFgEybSB+8P3Ydg/yExYNuUM2+93f0J4rDGVcy9ZXIjjQXFw16g==",
   "success": true,
   "projectFilePath": "D:\\Internship\\Training\\C#\\API\\MTControllerDbFirstOneToMany\\MTControllerDbFirstOneToMany\\MTControllerDbFirstOneToMany.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\Hariprakash R\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\Hariprakash R\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
     "C:\\Users\\Hariprakash R\\.nuget\\packages\\messagepackanalyzer\\2.1.152\\messagepackanalyzer.2.1.152.nupkg.sha512",
+    "C:\\Users\\Hariprakash R\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.16\\microsoft.aspnetcore.authentication.jwtbearer.6.0.16.nupkg.sha512",
     "C:\\Users\\Hariprakash R\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.16\\microsoft.aspnetcore.jsonpatch.6.0.16.nupkg.sha512",
     "C:\\Users\\Hariprakash R\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.16\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.16.nupkg.sha512",
     "C:\\Users\\Hariprakash R\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.0\\microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512",

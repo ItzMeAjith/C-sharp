@@ -11,21 +11,16 @@ namespace InterfaceDbFirstOneToMany.Repository
         {
             ctx = _ctx;
         }
-
-        
-
         //Get
         public IEnumerable<AccountInfo> Get()
         {
             return ctx.AccountInfos.Include(x => x.Transactions).ToList();
         }
-
         //Get by ID
         public AccountInfo GetBYID(int id)
         {
             return ctx.AccountInfos.Include(x => x.Transactions).FirstOrDefault(x => x.AccountNo == id);
         }
-
         //Post
         public string Post(AccountInfo acc)
         {
@@ -40,7 +35,6 @@ namespace InterfaceDbFirstOneToMany.Repository
             ctx.SaveChanges();
             return "Details updated successfully!!!";
         }
-
         //Delete
         public string Delete(int id)
         {
