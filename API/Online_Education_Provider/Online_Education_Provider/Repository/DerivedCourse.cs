@@ -16,15 +16,15 @@ namespace Online_Education_Provider.Repository
         //Get
         public async Task<ActionResult<IEnumerable<Course>>> Get()
         {
-           
+
             return await ctx.Courses.Include(x => x.Quizzes).ToListAsync();
-           
+
         }
 
         //Get by ID
         public async Task<ActionResult<Course>> GetByID(int id)
         {
-            return await ctx.Courses.Include(x=>x.Quizzes).FirstOrDefaultAsync(x => x.CourseId == id);
+            return await ctx.Courses.Include(x => x.Quizzes).FirstOrDefaultAsync(x => x.CourseId == id);
         }
 
         //Post
@@ -38,7 +38,7 @@ namespace Online_Education_Provider.Repository
         //Put
         public async Task<ActionResult<Course>> Put(Course cs)
         {
-            ctx.Entry(cs).State=EntityState.Modified;
+            ctx.Entry(cs).State = EntityState.Modified;
             await ctx.SaveChangesAsync();
             return cs;
         }
@@ -57,9 +57,9 @@ namespace Online_Education_Provider.Repository
         {
             int res = ctx.Courses.Count(x => x.CourseRating == id);
             return res.ToString();
-           
+
         }
 
-        
+
     }
 }

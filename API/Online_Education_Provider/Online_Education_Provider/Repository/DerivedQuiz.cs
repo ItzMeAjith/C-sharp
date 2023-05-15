@@ -4,7 +4,7 @@ using Online_Education_Provider.Models;
 
 namespace Online_Education_Provider.Repository
 {
-    public class DerivedQuiz:IQuiz
+    public class DerivedQuiz : IQuiz
     {
         private readonly OnlineEducationProviderContext ctx;
 
@@ -24,7 +24,7 @@ namespace Online_Education_Provider.Repository
         //Get by ID
         public async Task<ActionResult<Quiz>> GetByID(int id)
         {
-            return await ctx.Quizzes.Include(x=>x.Course).FirstOrDefaultAsync(x => x.QuizId == id);
+            return await ctx.Quizzes.Include(x => x.Course).FirstOrDefaultAsync(x => x.QuizId == id);
         }
 
         //Post
@@ -57,17 +57,18 @@ namespace Online_Education_Provider.Repository
         //Count
         public async Task<string> Count(int id)
         {
-            int res = await ctx.Quizzes.CountAsync( x=>x.CourseId== id);
+            int res = await ctx.Quizzes.CountAsync(x => x.CourseId == id);
             return res.ToString();
 
         }
         //Filter
         public async Task<ActionResult<IEnumerable<Quiz>>> Filter(string s)
         {
-            return await ctx.Quizzes.Where(x => x.QuizDifLevel == s).ToListAsync();
+           return await ctx.Quizzes.Where(x => x.QuizDifLevel == s).ToListAsync();
+
         }
 
-        
+
 
     }
 }

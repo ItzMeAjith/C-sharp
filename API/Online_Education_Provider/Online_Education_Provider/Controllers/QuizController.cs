@@ -1,10 +1,12 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Online_Education_Provider.Models;
 using Online_Education_Provider.Repository;
 
 namespace Online_Education_Provider.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class QuizController : ControllerBase
@@ -100,7 +102,7 @@ namespace Online_Education_Provider.Controllers
         }
 
         //Filter
-        [HttpGet("/")]
+        [HttpGet("Quizzes/")]
         public async Task<ActionResult<IEnumerable<Quiz>>> Filter(string s)
         {
             try
