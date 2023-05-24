@@ -1,0 +1,15 @@
+D:\Internship\Training\C#\C#_Assessment\C#_Assessment\bin\Debug\net6.0\C#_Assessment.exe
+D:\Internship\Training\C#\C#_Assessment\C#_Assessment\bin\Debug\net6.0\C#_Assessment.deps.json
+D:\Internship\Training\C#\C#_Assessment\C#_Assessment\bin\Debug\net6.0\C#_Assessment.runtimeconfig.json
+D:\Internship\Training\C#\C#_Assessment\C#_Assessment\bin\Debug\net6.0\C#_Assessment.dll
+D:\Internship\Training\C#\C#_Assessment\C#_Assessment\bin\Debug\net6.0\C#_Assessment.pdb
+D:\Internship\Training\C#\C#_Assessment\C#_Assessment\obj\Debug\net6.0\C#_Assessment.csproj.AssemblyReference.cache
+D:\Internship\Training\C#\C#_Assessment\C#_Assessment\obj\Debug\net6.0\C#_Assessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Training\C#\C#_Assessment\C#_Assessment\obj\Debug\net6.0\C#_Assessment.AssemblyInfoInputs.cache
+D:\Internship\Training\C#\C#_Assessment\C#_Assessment\obj\Debug\net6.0\C#_Assessment.AssemblyInfo.cs
+D:\Internship\Training\C#\C#_Assessment\C#_Assessment\obj\Debug\net6.0\C#_Assessment.csproj.CoreCompileInputs.cache
+D:\Internship\Training\C#\C#_Assessment\C#_Assessment\obj\Debug\net6.0\C#_Assessment.dll
+D:\Internship\Training\C#\C#_Assessment\C#_Assessment\obj\Debug\net6.0\refint\C#_Assessment.dll
+D:\Internship\Training\C#\C#_Assessment\C#_Assessment\obj\Debug\net6.0\C#_Assessment.pdb
+D:\Internship\Training\C#\C#_Assessment\C#_Assessment\obj\Debug\net6.0\C#_Assessment.genruntimeconfig.cache
+D:\Internship\Training\C#\C#_Assessment\C#_Assessment\obj\Debug\net6.0\ref\C#_Assessment.dll

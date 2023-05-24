@@ -1,0 +1,15 @@
+D:\Internship\Training\C#\PracticeForAssessment\PracticeForAssessment\bin\Debug\net6.0\PracticeForAssessment.exe
+D:\Internship\Training\C#\PracticeForAssessment\PracticeForAssessment\bin\Debug\net6.0\PracticeForAssessment.deps.json
+D:\Internship\Training\C#\PracticeForAssessment\PracticeForAssessment\bin\Debug\net6.0\PracticeForAssessment.runtimeconfig.json
+D:\Internship\Training\C#\PracticeForAssessment\PracticeForAssessment\bin\Debug\net6.0\PracticeForAssessment.dll
+D:\Internship\Training\C#\PracticeForAssessment\PracticeForAssessment\bin\Debug\net6.0\PracticeForAssessment.pdb
+D:\Internship\Training\C#\PracticeForAssessment\PracticeForAssessment\obj\Debug\net6.0\PracticeForAssessment.csproj.AssemblyReference.cache
+D:\Internship\Training\C#\PracticeForAssessment\PracticeForAssessment\obj\Debug\net6.0\PracticeForAssessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Training\C#\PracticeForAssessment\PracticeForAssessment\obj\Debug\net6.0\PracticeForAssessment.AssemblyInfoInputs.cache
+D:\Internship\Training\C#\PracticeForAssessment\PracticeForAssessment\obj\Debug\net6.0\PracticeForAssessment.AssemblyInfo.cs
+D:\Internship\Training\C#\PracticeForAssessment\PracticeForAssessment\obj\Debug\net6.0\PracticeForAssessment.csproj.CoreCompileInputs.cache
+D:\Internship\Training\C#\PracticeForAssessment\PracticeForAssessment\obj\Debug\net6.0\PracticeForAssessment.dll
+D:\Internship\Training\C#\PracticeForAssessment\PracticeForAssessment\obj\Debug\net6.0\refint\PracticeForAssessment.dll
+D:\Internship\Training\C#\PracticeForAssessment\PracticeForAssessment\obj\Debug\net6.0\PracticeForAssessment.pdb
+D:\Internship\Training\C#\PracticeForAssessment\PracticeForAssessment\obj\Debug\net6.0\PracticeForAssessment.genruntimeconfig.cache
+D:\Internship\Training\C#\PracticeForAssessment\PracticeForAssessment\obj\Debug\net6.0\ref\PracticeForAssessment.dll

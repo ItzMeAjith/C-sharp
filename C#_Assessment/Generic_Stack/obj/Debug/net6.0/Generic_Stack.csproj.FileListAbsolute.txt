@@ -1,0 +1,15 @@
+D:\Internship\Training\C#\C#_Assessment\Generic_Stack\bin\Debug\net6.0\Generic_Stack.exe
+D:\Internship\Training\C#\C#_Assessment\Generic_Stack\bin\Debug\net6.0\Generic_Stack.deps.json
+D:\Internship\Training\C#\C#_Assessment\Generic_Stack\bin\Debug\net6.0\Generic_Stack.runtimeconfig.json
+D:\Internship\Training\C#\C#_Assessment\Generic_Stack\bin\Debug\net6.0\Generic_Stack.dll
+D:\Internship\Training\C#\C#_Assessment\Generic_Stack\bin\Debug\net6.0\Generic_Stack.pdb
+D:\Internship\Training\C#\C#_Assessment\Generic_Stack\obj\Debug\net6.0\Generic_Stack.csproj.AssemblyReference.cache
+D:\Internship\Training\C#\C#_Assessment\Generic_Stack\obj\Debug\net6.0\Generic_Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Training\C#\C#_Assessment\Generic_Stack\obj\Debug\net6.0\Generic_Stack.AssemblyInfoInputs.cache
+D:\Internship\Training\C#\C#_Assessment\Generic_Stack\obj\Debug\net6.0\Generic_Stack.AssemblyInfo.cs
+D:\Internship\Training\C#\C#_Assessment\Generic_Stack\obj\Debug\net6.0\Generic_Stack.csproj.CoreCompileInputs.cache
+D:\Internship\Training\C#\C#_Assessment\Generic_Stack\obj\Debug\net6.0\Generic_Stack.dll
+D:\Internship\Training\C#\C#_Assessment\Generic_Stack\obj\Debug\net6.0\refint\Generic_Stack.dll
+D:\Internship\Training\C#\C#_Assessment\Generic_Stack\obj\Debug\net6.0\Generic_Stack.pdb
+D:\Internship\Training\C#\C#_Assessment\Generic_Stack\obj\Debug\net6.0\Generic_Stack.genruntimeconfig.cache
+D:\Internship\Training\C#\C#_Assessment\Generic_Stack\obj\Debug\net6.0\ref\Generic_Stack.dll

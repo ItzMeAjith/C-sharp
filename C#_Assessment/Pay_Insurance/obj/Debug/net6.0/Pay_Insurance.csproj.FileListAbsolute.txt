@@ -1,0 +1,15 @@
+D:\Internship\Training\C#\C#_Assessment\Pay_Insurance\bin\Debug\net6.0\Pay_Insurance.exe
+D:\Internship\Training\C#\C#_Assessment\Pay_Insurance\bin\Debug\net6.0\Pay_Insurance.deps.json
+D:\Internship\Training\C#\C#_Assessment\Pay_Insurance\bin\Debug\net6.0\Pay_Insurance.runtimeconfig.json
+D:\Internship\Training\C#\C#_Assessment\Pay_Insurance\bin\Debug\net6.0\Pay_Insurance.dll
+D:\Internship\Training\C#\C#_Assessment\Pay_Insurance\bin\Debug\net6.0\Pay_Insurance.pdb
+D:\Internship\Training\C#\C#_Assessment\Pay_Insurance\obj\Debug\net6.0\Pay_Insurance.csproj.AssemblyReference.cache
+D:\Internship\Training\C#\C#_Assessment\Pay_Insurance\obj\Debug\net6.0\Pay_Insurance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Training\C#\C#_Assessment\Pay_Insurance\obj\Debug\net6.0\Pay_Insurance.AssemblyInfoInputs.cache
+D:\Internship\Training\C#\C#_Assessment\Pay_Insurance\obj\Debug\net6.0\Pay_Insurance.AssemblyInfo.cs
+D:\Internship\Training\C#\C#_Assessment\Pay_Insurance\obj\Debug\net6.0\Pay_Insurance.csproj.CoreCompileInputs.cache
+D:\Internship\Training\C#\C#_Assessment\Pay_Insurance\obj\Debug\net6.0\Pay_Insurance.dll
+D:\Internship\Training\C#\C#_Assessment\Pay_Insurance\obj\Debug\net6.0\refint\Pay_Insurance.dll
+D:\Internship\Training\C#\C#_Assessment\Pay_Insurance\obj\Debug\net6.0\Pay_Insurance.pdb
+D:\Internship\Training\C#\C#_Assessment\Pay_Insurance\obj\Debug\net6.0\Pay_Insurance.genruntimeconfig.cache
+D:\Internship\Training\C#\C#_Assessment\Pay_Insurance\obj\Debug\net6.0\ref\Pay_Insurance.dll

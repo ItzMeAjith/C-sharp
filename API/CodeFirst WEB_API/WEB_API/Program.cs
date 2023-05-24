@@ -11,6 +11,17 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<API_MenuDbContext>(options=>options.UseSqlServer("data source=DESKTOP-GL7RKG7\\SQLEXPRESS;database=DBAPI;integrated security=true;trustservercertificate=true;"));
+builder.Services.AddCors(op=>
+{
+    op.AddPolicy("MyHotelPolicy", builder =>
+    {
+        builder.AllowAnyOrigin()
+               .AllowAnyHeader()
+               .AllowAnyMethod();
+
+
+    });
+});
 
 var app = builder.Build();
 
@@ -22,7 +33,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+app.UseCors("MyHotelPolicy");
 app.UseAuthorization();
 
 app.MapControllers();
