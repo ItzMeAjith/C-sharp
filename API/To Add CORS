@@ -1,0 +1,13 @@
+builder.Services.AddCors(op=>
+{
+    op.AddPolicy("MyHotelPolicy", builder =>
+    {
+        builder.AllowAnyOrigin()
+               .AllowAnyHeader()
+               .AllowAnyMethod();
+
+
+    });
+});
+
+app.UseCors("MyHotelPolicy");
