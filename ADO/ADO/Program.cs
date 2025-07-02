@@ -74,7 +74,7 @@ namespace ADO1
                             break;
                         }
                 }
-                Console.Write("Do you want to continue (yes/no): ");
+                Console.Write("Do you want to continue (yes/no) : ");
                 OP = Console.ReadLine();
             } while (OP == "yes");
         }
